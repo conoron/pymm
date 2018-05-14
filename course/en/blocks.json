@@ -1,0 +1,325 @@
+[
+  {
+    "_id": "5ae4496d25f0aa1451896548",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5ae4496d25f0aa1451896547",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5ae4496d25f0aa1451896548",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Course Contact",
+    "_type": "block",
+    "_courseOrder": "0-0-0",
+    "_childrenIds": [
+      "5ae71f6b5de87d5cf1179bb7"
+    ]
+  },
+  {
+    "_id": "5ae8ba875393dc7ff60636d0",
+    "_sortOrder": 1,
+    "_parentId": "5ae4496d25f0aa1451896547",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5ae8ba875393dc7ff60636d0",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Module Descriptor",
+    "_type": "block",
+    "_courseOrder": "0-0-1",
+    "_childrenIds": [
+      "5ae8ba8e5393dc7ff60636d1"
+    ]
+  },
+  {
+    "_id": "5ae8bcb95393dc7ff60636d6",
+    "_sortOrder": 2,
+    "_parentId": "5ae4496d25f0aa1451896547",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5ae8bcb95393dc7ff60636d6",
+    "displayTitle": "",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Open Student Discussion",
+    "_type": "block",
+    "_courseOrder": "0-0-2",
+    "_childrenIds": [
+      "5ae8bcc85393dc7ff60636d7"
+    ]
+  },
+  {
+    "_id": "5af9d08d29ecd05c9f7ec9f8",
+    "_sortOrder": 0,
+    "_parentId": "5adf6301eaa5be6f7e4e9654",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5af9d08d29ecd05c9f7ec9f8",
+    "displayTitle": "Assessment Details<br>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Assessment Details",
+    "_type": "block",
+    "_courseOrder": "1-0-0",
+    "_childrenIds": [
+      "5af9d3e629ecd05c9f7eca02"
+    ]
+  },
+  {
+    "_id": "5aa91917a7cdb50927663f2f",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5aa91917a7cdb50927663f2e",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5aa91917a7cdb50927663f2f",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Say Hello",
+    "_type": "block",
+    "_courseOrder": "2-0-0",
+    "_childrenIds": [
+      "5ade56bffddd241d59fd3b36"
+    ]
+  },
+  {
+    "_id": "5af6cafd4b33d4241b1a5a65",
+    "_sortOrder": 1,
+    "_parentId": "5aa91917a7cdb50927663f2e",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5af6cafd4b33d4241b1a5a65",
+    "displayTitle": "Module Request<br>",
+    "body": "<p>In order to get access to your module in Moodle you first email the CTEL team at <a href=\"mailto:moodle@wit.ie\">moodle@wit.ie</a> requesting the access to the Module, each module with have a unique five digit number, please include this number with you request.</p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Module Request",
+    "_type": "block",
+    "_courseOrder": "2-0-1",
+    "_childrenIds": [
+      "5af6cba14b33d4241b1a5a66"
+    ]
+  },
+  {
+    "_id": "5af44cf1a72c6b2ef8ae08a3",
+    "_sortOrder": 0,
+    "_parentId": "5ae8b0525393dc7ff60636c0",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5af44cf1a72c6b2ef8ae08a3",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Key Points",
+    "_type": "block",
+    "_courseOrder": "2-1-0",
+    "_childrenIds": [
+      "5af9e0b029ecd05c9f7eca07"
+    ]
+  },
+  {
+    "_id": "5af6cec34b33d4241b1a5a6a",
+    "_sortOrder": 0,
+    "_parentId": "5ae4456e25f0aa145189653e",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5af6cec34b33d4241b1a5a6a",
+    "displayTitle": "Moodle Format Video<br>",
+    "body": "<p>Take a look at this video, its explains the differences in module formats that can be used in Moodle</p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Moodle Format Video",
+    "_type": "block",
+    "_courseOrder": "3-0-0",
+    "_childrenIds": [
+      "5af6cfe64b33d4241b1a5a6e"
+    ]
+  },
+  {
+    "_id": "5af6cf4d4b33d4241b1a5a6d",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5af6cf4d4b33d4241b1a5a6c",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5af6cf4d4b33d4241b1a5a6d",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Checklist",
+    "_type": "block",
+    "_courseOrder": "3-1-0",
+    "_childrenIds": [
+      "5ae9f4952a8d4f109d667c16"
+    ]
+  },
+  {
+    "_id": "5af6d03b4b33d4241b1a5a6f",
+    "_sortOrder": 1,
+    "_parentId": "5af6cf4d4b33d4241b1a5a6c",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5af6d03b4b33d4241b1a5a6f",
+    "displayTitle": "Multiple Choice Quiz<br>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Multiple Choice Quiz",
+    "_type": "block",
+    "_courseOrder": "3-1-1",
+    "_childrenIds": [
+      "5af6d0754b33d4241b1a5a70"
+    ]
+  },
+  {
+    "_id": "5af8451e09bb9244299b2bed",
+    "_sortOrder": 0,
+    "_parentId": "5ae4457825f0aa1451896541",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5af8451e09bb9244299b2bed",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Lab 3 - Video",
+    "_type": "block",
+    "_courseOrder": "4-0-0",
+    "_childrenIds": [
+      "5af8452609bb9244299b2bee"
+    ]
+  },
+  {
+    "_id": "5ae446ce25f0aa1451896545",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5ae446ce25f0aa1451896544",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5ae446ce25f0aa1451896545",
+    "displayTitle": "",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Add Course Topics",
+    "_type": "block",
+    "_courseOrder": "5-0-0",
+    "_childrenIds": [
+      "5ae8b8f65393dc7ff60636c8"
+    ]
+  },
+  {
+    "_id": "5af45247a72c6b2ef8ae08b8",
+    "_sortOrder": 1,
+    "_parentId": "5ae446ce25f0aa1451896544",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5af45247a72c6b2ef8ae08b8",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "New Block Title",
+    "_type": "block",
+    "_courseOrder": "5-0-1",
+    "_childrenIds": [
+      "5af45263a72c6b2ef8ae08ba"
+    ]
+  },
+  {
+    "_id": "5af45811a72c6b2ef8ae08d2",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5af45811a72c6b2ef8ae08d1",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5af45811a72c6b2ef8ae08d2",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Step 1",
+    "_type": "block",
+    "_courseOrder": "6-0-0",
+    "_childrenIds": [
+      "5af9e16529ecd05c9f7eca08"
+    ]
+  },
+  {
+    "_id": "5af45b1ca72c6b2ef8ae08df",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5af45b1ca72c6b2ef8ae08de",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5af45b1ca72c6b2ef8ae08df",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Step 1",
+    "_type": "block",
+    "_courseOrder": "7-0-0",
+    "_childrenIds": [
+      "5af9e1ae29ecd05c9f7eca09"
+    ]
+  }
+]

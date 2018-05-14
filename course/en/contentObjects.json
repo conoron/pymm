@@ -1,0 +1,1532 @@
+[
+  {
+    "_id": "5ae4496d25f0aa1451896546",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5aa81c34a7cdb50927663ec1",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5ae4496d25f0aa1451896546",
+    "displayTitle": "Course Infomation",
+    "duration": "",
+    "description": "<p>This where course information such the contact details, the module outlile and the open discussion forum with appear.</p>",
+    "_swipeMenu": {
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      },
+      "_shouldHideDisabledControl": false,
+      "_shouldShowControlsOnHover": false,
+      "_shouldAlwaysShowItems": false,
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_pointerWidth": 0,
+      "_defaultPointerWidth": 0,
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "homeButtonAriaLabel": "Home",
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "itemCompletionText": "Complete",
+      "_showCompletionStatusInFooter": false,
+      "_showCompletionStatusOnMenus": false,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_completionComponentIds": [],
+    "_pageCompletionMethod": "components",
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "Course Information",
+    "_type": "page",
+    "_courseOrder": "0",
+    "_descendantComponentIds": [
+      "5ae71f6b5de87d5cf1179bb7",
+      "5ae8ba8e5393dc7ff60636d1",
+      "5ae8bcc85393dc7ff60636d7"
+    ],
+    "_childrenIds": [
+      "5ae4496d25f0aa1451896547"
+    ]
+  },
+  {
+    "_id": "5adf6301eaa5be6f7e4e9653",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5aa81c34a7cdb50927663ec1",
+    "_sortOrder": 1,
+    "__v": 0,
+    "_refId": "5adf6301eaa5be6f7e4e9653",
+    "displayTitle": "Assessment",
+    "body": "",
+    "description": "<p>Student can find details here regarding the Course Assessment brief and the Assignment due dates</p>",
+    "duration": "",
+    "_swipeMenu": {
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      },
+      "_shouldHideDisabledControl": false,
+      "_shouldShowControlsOnHover": false,
+      "_shouldAlwaysShowItems": false,
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_pointerWidth": 0,
+      "_defaultPointerWidth": 0,
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "homeButtonAriaLabel": "Home",
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "itemCompletionText": "Complete",
+      "_showCompletionStatusInFooter": false,
+      "_showCompletionStatusOnMenus": false,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_completionComponentIds": [],
+    "_pageCompletionMethod": "components",
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false,
+      "src": {
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5af45924a72c6b2ef8ae08d8"
+      }
+    },
+    "title": "Course Assessment",
+    "_type": "page",
+    "_courseOrder": "1",
+    "_descendantComponentIds": [
+      "5af9d3e629ecd05c9f7eca02"
+    ],
+    "_childrenIds": [
+      "5adf6301eaa5be6f7e4e9654"
+    ]
+  },
+  {
+    "_id": "5aa91917a7cdb50927663f2d",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5aa81c34a7cdb50927663ec1",
+    "_sortOrder": 2,
+    "__v": 0,
+    "_refId": "5aa91917a7cdb50927663f2d",
+    "displayTitle": "Lab 1 Introduction",
+    "body": "<p>When you first setup in your Moodle module by your colleagues in the TEL team, there are some basic features that you can setup in you module to enhance the learning experience for you students.</p>",
+    "description": "<p>In this lab we take a look at the introduction video on how to log into Moodle and also where your module is located.</p>",
+    "duration": "1",
+    "_swipeMenu": {
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "textAlignment": "left",
+        "_contentWidth": 70,
+        "layout": "center"
+      },
+      "_shouldHideDisabledControl": false,
+      "_shouldShowControlsOnHover": false,
+      "_shouldAlwaysShowItems": false,
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "textAlignment": "left",
+        "_contentWidth": 70,
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_pointerWidth": 0,
+      "_defaultPointerWidth": 0,
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "homeButtonAriaLabel": "Home",
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "itemCompletionText": "Complete",
+      "_showCompletionStatusInFooter": false,
+      "_showCompletionStatusOnMenus": false,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_graphic": {
+        "_large": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "5af42590a72c6b2ef8ae089f"
+          }
+        },
+        "_extraLarge": {
+          "src": {
+            "_size": "extraLarge",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59521ebdd6ac909a7354a0b5"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "layout": "center",
+      "_isEnabled": true
+    },
+    "_completionComponentIds": [],
+    "_pageCompletionMethod": "components",
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false,
+      "src": {
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5aa91a5ca7cdb50927663f3f"
+      }
+    },
+    "title": "Lab 1 - Introduction",
+    "_type": "page",
+    "_courseOrder": "2",
+    "_descendantComponentIds": [
+      "5ade56bffddd241d59fd3b36",
+      "5af6cba14b33d4241b1a5a66",
+      "5af9e0b029ecd05c9f7eca07"
+    ],
+    "_childrenIds": [
+      "5aa91917a7cdb50927663f2e",
+      "5ae8b0525393dc7ff60636c0"
+    ]
+  },
+  {
+    "_id": "5ae4456e25f0aa145189653d",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5aa81c34a7cdb50927663ec1",
+    "_sortOrder": 3,
+    "__v": 0,
+    "_refId": "5ae4456e25f0aa145189653d",
+    "displayTitle": "Lab 2 Module Format",
+    "duration": "2",
+    "body": "<p>In this Lab we will look at &nbsp;the different Module formats that can be used in you Moodle module, there are some small differences between formats and these differences will be covered in this lab </p>",
+    "description": "<p>In this Lab we will look at &nbsp;the different Module formats that can be used in you Moodle module, there are some small differences between formats and these differences will be covered in this lab </p>",
+    "_swipeMenu": {
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      },
+      "_shouldHideDisabledControl": false,
+      "_shouldShowControlsOnHover": false,
+      "_shouldAlwaysShowItems": false,
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_pointerWidth": 0,
+      "_defaultPointerWidth": 0,
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "homeButtonAriaLabel": "Home",
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "itemCompletionText": "Complete",
+      "_showCompletionStatusInFooter": false,
+      "_showCompletionStatusOnMenus": false,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center",
+      "_isEnabled": true
+    },
+    "_completionComponentIds": [],
+    "_pageCompletionMethod": "components",
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false,
+      "src": {
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5971e710f2f33cd336ccfa5d"
+      }
+    },
+    "title": "Lab 2 - Module Format",
+    "_type": "page",
+    "_courseOrder": "3",
+    "_descendantComponentIds": [
+      "5af6cfe64b33d4241b1a5a6e",
+      "5ae9f4952a8d4f109d667c16",
+      "5af6d0754b33d4241b1a5a70"
+    ],
+    "_childrenIds": [
+      "5ae4456e25f0aa145189653e",
+      "5af6cf4d4b33d4241b1a5a6c"
+    ]
+  },
+  {
+    "_id": "5ae4457825f0aa1451896540",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5aa81c34a7cdb50927663ec1",
+    "_sortOrder": 4,
+    "__v": 0,
+    "_refId": "5ae4457825f0aa1451896540",
+    "displayTitle": "Lab 3 Activities and Resources",
+    "duration": "2",
+    "body": "<p>In this Lab we will look at Moodle Activities and Resources, Moodle has a rich feature set but there are differences between Activities and Resources</p>",
+    "description": "<p>In this Lab we will look at Moodle Activities and Resources, Moodle has a rich feature set but there are differences between Activities and Resources</p>",
+    "_swipeMenu": {
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      },
+      "_shouldHideDisabledControl": false,
+      "_shouldShowControlsOnHover": false,
+      "_shouldAlwaysShowItems": false,
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_pointerWidth": 0,
+      "_defaultPointerWidth": 0,
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "homeButtonAriaLabel": "Home",
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "itemCompletionText": "Complete",
+      "_showCompletionStatusInFooter": false,
+      "_showCompletionStatusOnMenus": false,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_completionComponentIds": [],
+    "_pageCompletionMethod": "components",
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "Lab 3  - Moodle Activities and Resources",
+    "_type": "page",
+    "_courseOrder": "4",
+    "_descendantComponentIds": [
+      "5af8452609bb9244299b2bee"
+    ],
+    "_childrenIds": [
+      "5ae4457825f0aa1451896541"
+    ]
+  },
+  {
+    "_id": "5ae446ce25f0aa1451896543",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5aa81c34a7cdb50927663ec1",
+    "_sortOrder": 5,
+    "__v": 0,
+    "_refId": "5ae446ce25f0aa1451896543",
+    "displayTitle": "Lab 4 Set up Minimum Structure",
+    "duration": "5",
+    "body": "",
+    "description": "<p>In this Lab we will look at building some minimum course content, will start with setting up structure around sections, contact details, assessment details and setting up a discussion forum</p>",
+    "_swipeMenu": {
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      },
+      "_shouldHideDisabledControl": false,
+      "_shouldShowControlsOnHover": false,
+      "_shouldAlwaysShowItems": false,
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_pointerWidth": 0,
+      "_defaultPointerWidth": 0,
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "homeButtonAriaLabel": "Home",
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "itemCompletionText": "Complete",
+      "_showCompletionStatusInFooter": false,
+      "_showCompletionStatusOnMenus": false,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_completionComponentIds": [],
+    "_pageCompletionMethod": "components",
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "Lab 4 - Set up Minimum Structure",
+    "_type": "page",
+    "_courseOrder": "5",
+    "_descendantComponentIds": [
+      "5ae8b8f65393dc7ff60636c8",
+      "5af45263a72c6b2ef8ae08ba"
+    ],
+    "_childrenIds": [
+      "5ae446ce25f0aa1451896544"
+    ]
+  },
+  {
+    "_id": "5af45811a72c6b2ef8ae08d0",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5aa81c34a7cdb50927663ec1",
+    "_sortOrder": 6,
+    "__v": 0,
+    "_refId": "5af45811a72c6b2ef8ae08d0",
+    "displayTitle": "Lab 5 Build Content",
+    "body": "",
+    "description": "<p>In this lab we will look at adding some activity to our course, so we will add some Moodle activities such as a Discussion form and we will add in our Module Descriptor and Assessment Files</p>",
+    "duration": "5",
+    "_swipeMenu": {
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      },
+      "_shouldHideDisabledControl": false,
+      "_shouldShowControlsOnHover": false,
+      "_shouldAlwaysShowItems": false,
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_pointerWidth": 0,
+      "_defaultPointerWidth": 0,
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "homeButtonAriaLabel": "Home",
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "itemCompletionText": "Complete",
+      "_showCompletionStatusInFooter": false,
+      "_showCompletionStatusOnMenus": false,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_completionComponentIds": [],
+    "_pageCompletionMethod": "components",
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "Lab 5 - Build Content",
+    "_type": "page",
+    "_courseOrder": "6",
+    "_descendantComponentIds": [
+      "5af9e16529ecd05c9f7eca08"
+    ],
+    "_childrenIds": [
+      "5af45811a72c6b2ef8ae08d1"
+    ]
+  },
+  {
+    "_id": "5af45b1ca72c6b2ef8ae08dd",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5aa81c34a7cdb50927663ec1",
+    "_sortOrder": 7,
+    "__v": 0,
+    "_refId": "5af45b1ca72c6b2ef8ae08dd",
+    "displayTitle": "Lab 6 Build H5P Content",
+    "description": "<p>H5p contant is interactive and will allow you as the Lecturer to add interactive content, such as interactive video, interactive presentations, quizzes, drag and drop and many more.</p>",
+    "duration": "10",
+    "_swipeMenu": {
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      },
+      "_shouldHideDisabledControl": false,
+      "_shouldShowControlsOnHover": false,
+      "_shouldAlwaysShowItems": false,
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_pointerWidth": 0,
+      "_defaultPointerWidth": 0,
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "homeButtonAriaLabel": "Home",
+      "prevButtonAriaLabel": "Previous",
+      "nextButtonAriaLabel": "Next",
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "itemCompletionText": "Complete",
+      "_showCompletionStatusInFooter": false,
+      "_showCompletionStatusOnMenus": false,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_itemsPerRowMedium": 2,
+      "_itemsPerRowLarge": 2,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_headerGraphic": {
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right",
+        "_isFloatingGraphic": false,
+        "_hideOnMobile": false,
+        "_isOverridingTheme": false
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_completionComponentIds": [],
+    "_pageCompletionMethod": "components",
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "_graphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "title": "Lab 6 - Build H5P Content",
+    "_type": "page",
+    "_courseOrder": "7",
+    "_descendantComponentIds": [
+      "5af9e1ae29ecd05c9f7eca09"
+    ],
+    "_childrenIds": [
+      "5af45b1ca72c6b2ef8ae08de"
+    ]
+  }
+]

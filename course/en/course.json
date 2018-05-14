@@ -1,0 +1,799 @@
+{
+  "_id": "5aa81c34a7cdb50927663ec1",
+  "_createdAt": 1520966708857,
+  "_modifiedAt": 1526325719449,
+  "_theme": "5ade54cafddd241d59fd3b33",
+  "_editLog": [
+    {
+      "_id": "5aaa9354a7cdb509276640b3",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:37:56.376Z",
+      "_updateType": "DELETE",
+      "_type": "block",
+      "_refPath": "Block",
+      "_title": "New Block Title",
+      "_model": "5aaa934ba7cdb509276640b1"
+    },
+    {
+      "_id": "5aaa934ba7cdb509276640b2",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:37:47.710Z",
+      "_updateType": "CREATE",
+      "_type": "block",
+      "_refPath": "Block",
+      "_title": "New Block Title",
+      "_model": "5aaa934ba7cdb509276640b1"
+    },
+    {
+      "_id": "5aaa932aa7cdb509276640b0",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:37:14.372Z",
+      "_updateType": "UPDATE",
+      "_type": "block",
+      "_refPath": "Block",
+      "_title": "Say Hello",
+      "_model": "5aa91917a7cdb50927663f2f"
+    },
+    {
+      "_id": "5aaa9322a7cdb509276640af",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:37:06.410Z",
+      "_updateType": "UPDATE",
+      "_type": "block",
+      "_refPath": "Block",
+      "_title": "Intro",
+      "_model": "5aa91917a7cdb50927663f2f"
+    },
+    {
+      "_id": "5aaa9320a7cdb509276640ae",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:37:04.249Z",
+      "_updateType": "UPDATE",
+      "_type": "block",
+      "_refPath": "Block",
+      "_title": "Intr",
+      "_model": "5aa91917a7cdb50927663f2f"
+    },
+    {
+      "_id": "5aaa931aa7cdb509276640ad",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:36:58.945Z",
+      "_updateType": "UPDATE",
+      "_type": "block",
+      "_refPath": "Block",
+      "_title": "Introduce ",
+      "_model": "5aa91917a7cdb50927663f2f"
+    },
+    {
+      "_id": "5aaa931aa7cdb509276640ac",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:36:58.029Z",
+      "_updateType": "UPDATE",
+      "_type": "block",
+      "_refPath": "Block",
+      "_title": "Introduce",
+      "_model": "5aa91917a7cdb50927663f2f"
+    },
+    {
+      "_id": "5aaa9318a7cdb509276640ab",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:36:56.026Z",
+      "_updateType": "UPDATE",
+      "_type": "block",
+      "_refPath": "Block",
+      "_title": "Introd",
+      "_model": "5aa91917a7cdb50927663f2f"
+    },
+    {
+      "_id": "5aaa9316a7cdb509276640aa",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:36:54.877Z",
+      "_updateType": "UPDATE",
+      "_type": "block",
+      "_refPath": "Block",
+      "_title": "Intrody",
+      "_model": "5aa91917a7cdb50927663f2f"
+    },
+    {
+      "_id": "5aaa9314a7cdb509276640a9",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:36:52.669Z",
+      "_updateType": "UPDATE",
+      "_type": "block",
+      "_refPath": "Block",
+      "_title": "Intri",
+      "_model": "5aa91917a7cdb50927663f2f"
+    },
+    {
+      "_id": "5aaa9313a7cdb509276640a8",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:36:51.657Z",
+      "_updateType": "UPDATE",
+      "_type": "block",
+      "_refPath": "Block",
+      "_title": "Intric",
+      "_model": "5aa91917a7cdb50927663f2f"
+    },
+    {
+      "_id": "5aaa930aa7cdb509276640a7",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:36:42.375Z",
+      "_updateType": "UPDATE",
+      "_type": "block",
+      "_refPath": "Block",
+      "_title": "Activity ",
+      "_model": "5aa91917a7cdb50927663f2f"
+    },
+    {
+      "_id": "5aaa92f0a7cdb509276640a6",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:36:16.106Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "Introduction to Module",
+      "_model": "5aa91917a7cdb50927663f2e"
+    },
+    {
+      "_id": "5aaa92eea7cdb509276640a5",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:36:14.729Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "Introduction to Mod",
+      "_model": "5aa91917a7cdb50927663f2e"
+    },
+    {
+      "_id": "5aaa92eaa7cdb509276640a4",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:36:10.151Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "Intr",
+      "_model": "5aa91917a7cdb50927663f2e"
+    },
+    {
+      "_id": "5aaa92e9a7cdb509276640a3",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:36:09.122Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "Intri",
+      "_model": "5aa91917a7cdb50927663f2e"
+    },
+    {
+      "_id": "5aaa923ca7cdb509276640a2",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-15T15:33:16.901Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "Welcome",
+      "_model": "5aa91917a7cdb50927663f2d"
+    },
+    {
+      "_id": "5aa91ba5a7cdb50927663f52",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:55:01.985Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Moodle 3.3 Dashboard ",
+      "_model": "5aa91b28a7cdb50927663f43"
+    },
+    {
+      "_id": "5aa91b9ea7cdb50927663f51",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:54:54.744Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Moodle 3.3 Dashboard ",
+      "_model": "5aa91b28a7cdb50927663f43"
+    },
+    {
+      "_id": "5aa91b9ba7cdb50927663f50",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:54:51.034Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Moodle 3.3 Dashboard ",
+      "_model": "5aa91b28a7cdb50927663f43"
+    },
+    {
+      "_id": "5aa91b98a7cdb50927663f4f",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:54:48.709Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Moodle 3.3 Dashboard ",
+      "_model": "5aa91b28a7cdb50927663f43"
+    },
+    {
+      "_id": "5aa91b8aa7cdb50927663f4e",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:54:34.210Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Moodle 3.3 Dashboard ",
+      "_model": "5aa91b28a7cdb50927663f43"
+    },
+    {
+      "_id": "5aa91b88a7cdb50927663f4d",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:54:32.463Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Moodle 3.3 Dashboard ",
+      "_model": "5aa91b28a7cdb50927663f43"
+    },
+    {
+      "_id": "5aa91b84a7cdb50927663f4c",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:54:28.768Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Moodle 3.3 Dashboard ",
+      "_model": "5aa91b28a7cdb50927663f43"
+    },
+    {
+      "_id": "5aa91b53a7cdb50927663f4a",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:53:39.295Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Moodle 3.3 Dashboard ",
+      "_model": "5aa91b28a7cdb50927663f43"
+    },
+    {
+      "_id": "5aa91b50a7cdb50927663f49",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:53:36.566Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Moodle 3.3 Dashboard ",
+      "_model": "5aa91b28a7cdb50927663f43"
+    },
+    {
+      "_id": "5aa91b49a7cdb50927663f48",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:53:29.342Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Whats new in Moodle 3.3 Dashboard ",
+      "_model": "5aa91b28a7cdb50927663f43"
+    },
+    {
+      "_id": "5aa91b48a7cdb50927663f47",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:53:28.185Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Whats new in Moodle 3.3  Dashboard ",
+      "_model": "5aa91b28a7cdb50927663f43"
+    },
+    {
+      "_id": "5aa91b43a7cdb50927663f46",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:53:23.308Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Whats new in Moodle Dashboard ",
+      "_model": "5aa91b28a7cdb50927663f43"
+    },
+    {
+      "_id": "5aa91b3da7cdb50927663f45",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:53:17.152Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Moodle Dashboard ",
+      "_model": "5aa91b28a7cdb50927663f43"
+    },
+    {
+      "_id": "5aa91b28a7cdb50927663f44",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:52:56.753Z",
+      "_updateType": "CREATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Link Title",
+      "_model": "5aa91b28a7cdb50927663f43"
+    },
+    {
+      "_id": "5aa91b07a7cdb50927663f42",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:52:23.628Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "New Article Title",
+      "_model": "5aa91917a7cdb50927663f2e"
+    },
+    {
+      "_id": "5aa91b02a7cdb50927663f41",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:52:18.373Z",
+      "_updateType": "UPDATE",
+      "_type": "article",
+      "_refPath": "Article",
+      "_title": "New Article Title",
+      "_model": "5aa91917a7cdb50927663f2e"
+    },
+    {
+      "_id": "5aa91a5ea7cdb50927663f40",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:49:34.114Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "Welcome",
+      "_model": "5aa91917a7cdb50927663f2d"
+    },
+    {
+      "_id": "5aa91a3ca7cdb50927663f3e",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:49:00.241Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "Welcome",
+      "_model": "5aa91917a7cdb50927663f2d"
+    },
+    {
+      "_id": "5aa91a2aa7cdb50927663f3d",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:48:42.553Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "Welcome",
+      "_model": "5aa91917a7cdb50927663f2d"
+    },
+    {
+      "_id": "5aa91a19a7cdb50927663f3c",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:48:25.143Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "Welcome",
+      "_model": "5aa91917a7cdb50927663f2d"
+    },
+    {
+      "_id": "5aa919e1a7cdb50927663f3b",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:47:29.917Z",
+      "_updateType": "UPDATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "Welcome",
+      "_model": "5aa91917a7cdb50927663f2d"
+    },
+    {
+      "_id": "5aa919a0a7cdb50927663f3a",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:46:24.187Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Watercooler",
+      "_model": "5aa91963a7cdb50927663f31"
+    },
+    {
+      "_id": "5aa9199ba7cdb50927663f39",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:46:19.784Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Watercooler",
+      "_model": "5aa91963a7cdb50927663f31"
+    },
+    {
+      "_id": "5aa91985a7cdb50927663f38",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:45:57.154Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Watercooler",
+      "_model": "5aa91963a7cdb50927663f31"
+    },
+    {
+      "_id": "5aa9197fa7cdb50927663f37",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:45:51.063Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Watercooler",
+      "_model": "5aa91963a7cdb50927663f31"
+    },
+    {
+      "_id": "5aa91978a7cdb50927663f36",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:45:44.676Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "The Watercooler",
+      "_model": "5aa91963a7cdb50927663f31"
+    },
+    {
+      "_id": "5aa91971a7cdb50927663f35",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:45:37.689Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "The Watercooler",
+      "_model": "5aa91963a7cdb50927663f31"
+    },
+    {
+      "_id": "5aa9196fa7cdb50927663f34",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:45:35.790Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "The Water",
+      "_model": "5aa91963a7cdb50927663f31"
+    },
+    {
+      "_id": "5aa9196fa7cdb50927663f33",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:45:35.052Z",
+      "_updateType": "UPDATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "The Waterf",
+      "_model": "5aa91963a7cdb50927663f31"
+    },
+    {
+      "_id": "5aa91963a7cdb50927663f32",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:45:23.356Z",
+      "_updateType": "CREATE",
+      "_type": "component",
+      "_refPath": "Component",
+      "_title": "Discussion Title",
+      "_model": "5aa91963a7cdb50927663f31"
+    },
+    {
+      "_id": "5aa91917a7cdb50927663f30",
+      "_updatedBy": "5aa81c27a7cdb50927663ec0",
+      "_updatedAt": "2018-03-14T12:44:07.222Z",
+      "_updateType": "CREATE",
+      "_type": "page",
+      "_refPath": "ContentObject",
+      "_title": "New Content Object Title",
+      "_model": "5aa91917a7cdb50927663f2d"
+    },
+    {
+      "_id": "5aa81c41a7cdb50927663ec5",
+      "_updatedBy": "594b99a83d04dc2f26af022a",
+      "_updatedAt": "2018-03-13T18:45:21.250Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    },
+    {
+      "_id": "5aa81c3ca7cdb50927663ec4",
+      "_updatedBy": "594b99a83d04dc2f26af022a",
+      "_updatedAt": "2018-03-13T18:45:16.146Z",
+      "_updateType": "UPDATE",
+      "_type": "course"
+    }
+  ],
+  "__v": 0,
+  "_refId": "5aa81c34a7cdb50927663ec1",
+  "displayTitle": "Prime your Moodle Module<br>",
+  "body": "<p>When you first get assigned your Moodle module there are some basics set up features that you can out in place to enhance the learning experience for you student. </p>",
+  "_swipeMenu": {
+    "prevButtonAriaLabel": "Previous",
+    "nextButtonAriaLabel": "Next",
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuContentItems": [],
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    },
+    "_shouldHideDisabledControl": false,
+    "_shouldShowControlsOnHover": false,
+    "_shouldPartiallyShowNextItem": false,
+    "_shouldAlwaysShowItems": false,
+    "_shouldShowControlsOnBottom": false,
+    "_shouldDisableItemScaling": false,
+    "_shouldDisableDetailOnHover": false
+  },
+  "_standardMenu": {
+    "_shouldShowIconOnMenuItems": true,
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuContentItems": [],
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    }
+  },
+  "_playlistMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuGroupLabel": "Topics"
+  },
+  "_mapMenu": {
+    "_closeButtonText": "Close",
+    "_defaultPointerWidth": 0
+  },
+  "_coverMenu": {
+    "homeButtonAriaLabel": "Home",
+    "prevButtonAriaLabel": "Previous",
+    "nextButtonAriaLabel": "Next",
+    "_shouldShowProgressBarsOnMenus": true,
+    "_coverButtonText": "View"
+  },
+  "_boxMenu": {
+    "_menuContentItems": [],
+    "_itemsPerRowMedium": 2,
+    "_itemsPerRowLarge": 2,
+    "itemCompletionText": "Complete",
+    "_showCompletionStatusInFooter": false,
+    "_showCompletionStatusOnMenus": false,
+    "_shouldShowProgressBarsOnMenus": true,
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_headerGraphic": {
+      "_offset": {
+        "_left": "0",
+        "_top": "0"
+      },
+      "_position": "bottom-right",
+      "_isFloatingGraphic": false,
+      "_hideOnMobile": false,
+      "_isOverridingTheme": false
+    },
+    "_heroImage": {
+      "textAlignment": "left",
+      "_floatingGraphic": {
+        "_hideOnMobile": false,
+        "_offset": {
+          "_left": "0",
+          "_top": "0"
+        },
+        "_position": "bottom-right"
+      },
+      "_contentWidth": 70,
+      "layout": "center"
+    }
+  },
+  "_courseNavigation": {
+    "courseNavigationSidebarAriaLabel": "Tab to move through the course items",
+    "courseNavigationAriaLabel": "Select this button to toggle the course navigation sidebar",
+    "_isOnRightSide": false,
+    "icon": "document2",
+    "homeText": "My Home",
+    "_isEnabled": true
+  },
+  "_pageCompletionMethod": "components",
+  "_pageBackgroundImage": {
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover",
+      "src": null
+    }
+  },
+  "_courseTags": [],
+  "_fonts": {
+    "_installed": [],
+    "_google": []
+  },
+  "_downloads": {
+    "viewDownloadsButtonText": "View downloads",
+    "nameRequiredText": "Name required",
+    "nameLabelText": "Name",
+    "body": "",
+    "title": "Downloads"
+  },
+  "_globals": {
+    "_questionAttempts": {
+      "_attempts": 1,
+      "_shouldUseGlobalAttempts": false
+    },
+    "incorrectIconAriaLabel": "incorrect",
+    "correctIconAriaLabel": "correct",
+    "_feedbackText": {
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "incorrectFinalFeedback": "Incorrect",
+      "incorrectNotFinalFeedback": "Incorrect, try again",
+      "partlyCorrectFinalFeedback": "Partly correct",
+      "partlyCorrectNotFinalFeedback": "Partly correct, try again",
+      "correctFeedback": "Correct"
+    }
+  },
+  "_buttons": {
+    "disabledAriaLabel": "This button is disabled.",
+    "remainingAttemptText": "final attempt",
+    "remainingAttemptsText": "attempts remaining",
+    "_hideFeedback": {
+      "ariaLabel": "Select this button to hide the feedback",
+      "buttonText": "Close"
+    },
+    "_showFeedback": {
+      "_isDisabled": false,
+      "ariaLabel": "Select this button to show the feedback",
+      "buttonText": "Show Feedback"
+    },
+    "_hideCorrectAnswer": {
+      "ariaLabel": "Select this button to hide the correct answer",
+      "buttonText": "Hide Answer"
+    },
+    "_showCorrectAnswer": {
+      "ariaLabel": "Select this button to show the correct answer",
+      "buttonText": "Show Answer"
+    },
+    "_reset": {
+      "ariaLabel": "Select this button to reset your answer",
+      "buttonText": "Reset"
+    },
+    "_submit": {
+      "ariaLabel": "Select this button to submit your answer",
+      "buttonText": "Submit"
+    }
+  },
+  "_footerNav": {
+    "_hasHomeButton": false,
+    "pageOfText": "of",
+    "_shouldDisableTitleButtonText": false,
+    "nextButtonText": "Next",
+    "previousButtonText": "Previous",
+    "_isEnabled": true
+  },
+  "_notify": {
+    "_buttonAlignment": "center",
+    "_iconAlignment": "center",
+    "_bodyTextAlignment": "center",
+    "_titleTextAlignment": "center"
+  },
+  "_navigation": {
+    "navigationLogoAlt": "",
+    "notifyButtonAriaLabel": "",
+    "navigationSkipContentAriaLabel": "",
+    "sidebarAriaLabel": "Tab to move through extra navigation items",
+    "hamburgerAriaLabel": "Select this button to toggle the sidebar navigation",
+    "dashboardText": "Dashboard",
+    "backText": "Back to Page",
+    "backToMenuText": "Back to Menu",
+    "_shouldHideMenu": false
+  },
+  "_version": {
+    "_isVersion": false,
+    "_masterVersionId": null,
+    "versionTitle": null,
+    "_isLanguageVersion": false
+  },
+  "_reviews": {
+    "_reviews": [],
+    "_isUnderReview": false
+  },
+  "_categoryGroups": [],
+  "_categories": [],
+  "_isEditLocked": false,
+  "title": "Prime your Moodle Module",
+  "_type": "course",
+  "_childrenIds": [
+    "5ae4496d25f0aa1451896546",
+    "5adf6301eaa5be6f7e4e9653",
+    "5aa91917a7cdb50927663f2d",
+    "5ae4456e25f0aa145189653d",
+    "5ae4457825f0aa1451896540",
+    "5ae446ce25f0aa1451896543",
+    "5af45811a72c6b2ef8ae08d0",
+    "5af45b1ca72c6b2ef8ae08dd"
+  ]
+}

@@ -1,0 +1,764 @@
+[
+  {
+    "_id": "5ae4496d25f0aa1451896547",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5ae4496d25f0aa1451896546",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5ae4496d25f0aa1451896547",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Course Information",
+    "_type": "article",
+    "_courseOrder": "0-0",
+    "_childrenIds": [
+      "5ae4496d25f0aa1451896548",
+      "5ae8ba875393dc7ff60636d0",
+      "5ae8bcb95393dc7ff60636d6"
+    ]
+  },
+  {
+    "_id": "5adf6301eaa5be6f7e4e9654",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5adf6301eaa5be6f7e4e9653",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5adf6301eaa5be6f7e4e9654",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Student Assesment",
+    "_type": "article",
+    "_courseOrder": "1-0",
+    "_childrenIds": [
+      "5af9d08d29ecd05c9f7ec9f8"
+    ]
+  },
+  {
+    "_id": "5aa91917a7cdb50927663f2e",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5aa91917a7cdb50927663f2d",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5aa91917a7cdb50927663f2e",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Introduction to Module",
+    "_type": "article",
+    "_courseOrder": "2-0",
+    "_childrenIds": [
+      "5aa91917a7cdb50927663f2f",
+      "5af6cafd4b33d4241b1a5a65"
+    ]
+  },
+  {
+    "_id": "5ae8b0525393dc7ff60636c0",
+    "_sortOrder": 1,
+    "_parentId": "5aa91917a7cdb50927663f2d",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5ae8b0525393dc7ff60636c0",
+    "displayTitle": "Key Points<br>",
+    "body": "",
+    "_progress": {
+      "_isEnabled": false
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "article-style-5",
+    "title": "Key Points",
+    "_type": "article",
+    "_courseOrder": "2-1",
+    "_childrenIds": [
+      "5af44cf1a72c6b2ef8ae08a3"
+    ]
+  },
+  {
+    "_id": "5ae4456e25f0aa145189653e",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5ae4456e25f0aa145189653d",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5ae4456e25f0aa145189653e",
+    "displayTitle": "Lab 2 - Module Format<br>",
+    "body": "<p>In this lab we will look at the diffrent module formats that can be used in you Moodle module</p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Lab 2 - Module Format",
+    "_type": "article",
+    "_courseOrder": "3-0",
+    "_childrenIds": [
+      "5af6cec34b33d4241b1a5a6a"
+    ]
+  },
+  {
+    "_id": "5af6cf4d4b33d4241b1a5a6c",
+    "_sortOrder": 1,
+    "_parentId": "5ae4456e25f0aa145189653d",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5af6cf4d4b33d4241b1a5a6c",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Checklist",
+    "_type": "article",
+    "_courseOrder": "3-1",
+    "_childrenIds": [
+      "5af6cf4d4b33d4241b1a5a6d",
+      "5af6d03b4b33d4241b1a5a6f"
+    ]
+  },
+  {
+    "_id": "5ae4457825f0aa1451896541",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5ae4457825f0aa1451896540",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5ae4457825f0aa1451896541",
+    "displayTitle": "Moodle Activities and Resources",
+    "body": "<p>In this lab we look at the differences between activities and resources and how you can use some of these to help motivate and engage your students</p>",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Moodle Activities and Resources",
+    "_type": "article",
+    "_courseOrder": "4-0",
+    "_childrenIds": [
+      "5af8451e09bb9244299b2bed"
+    ]
+  },
+  {
+    "_id": "5ae446ce25f0aa1451896544",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5ae446ce25f0aa1451896543",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5ae446ce25f0aa1451896544",
+    "displayTitle": "Add Course Topics",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Add Course Topics",
+    "_type": "article",
+    "_courseOrder": "5-0",
+    "_childrenIds": [
+      "5ae446ce25f0aa1451896545",
+      "5af45247a72c6b2ef8ae08b8"
+    ]
+  },
+  {
+    "_id": "5af45811a72c6b2ef8ae08d1",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5af45811a72c6b2ef8ae08d0",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5af45811a72c6b2ef8ae08d1",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Step 1",
+    "_type": "article",
+    "_courseOrder": "6-0",
+    "_childrenIds": [
+      "5af45811a72c6b2ef8ae08d2"
+    ]
+  },
+  {
+    "_id": "5af45b1ca72c6b2ef8ae08de",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5af45b1ca72c6b2ef8ae08dd",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5af45b1ca72c6b2ef8ae08de",
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_contentLocking": {
+      "_lockedApperance": "default",
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_lockIcon": "lock",
+      "_lockedText": "This article is locked",
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "component",
+      "_isEnabled": false
+    },
+    "_bookShelf": {
+      "_tracking": {
+        "_event": "tracker:saveSession",
+        "_isEnabled": true
+      },
+      "_isShelved": false,
+      "_isEnabled": false
+    },
+    "_dividers": {
+      "_after": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      },
+      "_before": {
+        "_graphic": {
+          "_small": {
+            "_shouldRepeat": false,
+            "_height": 200
+          },
+          "_large": {
+            "_shouldRepeat": false,
+            "_height": 200
+          }
+        },
+        "_isEnabled": false
+      }
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_position": "center",
+      "_size": "initial"
+    },
+    "_hasScrollActionButton": false,
+    "_classes": "none",
+    "title": "Step 1",
+    "_type": "article",
+    "_courseOrder": "7-0",
+    "_childrenIds": [
+      "5af45b1ca72c6b2ef8ae08df"
+    ]
+  }
+]

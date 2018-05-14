@@ -1,0 +1,1338 @@
+[
+  {
+    "_id": "5ae71f6b5de87d5cf1179bb7",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5ae4496d25f0aa1451896548",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false,
+          "_transcript": {
+            "button": "Open transcript"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Lecturer:<br><br>",
+        "_id": "5ae71f915de87d5cf1179bb8",
+        "itemIndex": 0,
+        "body": "<p>Conor O&#39;Neill</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false,
+          "_transcript": {
+            "button": "Open transcript"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Location:<br><br>",
+        "_id": "5ae71fe25de87d5cf1179bb9",
+        "itemIndex": 1,
+        "body": "<p>Room FTG.29 Flexible Technology Building - Main Campus</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false,
+          "_transcript": {
+            "button": "Open transcript"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 2,
+        "_id": "5ae720045de87d5cf1179bba",
+        "title": "Email:<br><br>",
+        "body": "<p>coneill2@mycit.ie</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false,
+          "_transcript": {
+            "button": "Open transcript"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 3,
+        "_id": "5ae720155de87d5cf1179bbb",
+        "title": "Phone<br><br>",
+        "body": "<p>051834083</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ae71f6b5de87d5cf1179bb7",
+    "displayTitle": "Course Contact Details",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": false
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": ""
+    },
+    "title": "Contact Details",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "5ae8ba8e5393dc7ff60636d1",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5ae8ba875393dc7ff60636d0",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false,
+          "_transcript": {
+            "button": "Open transcript"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "5ae8bab15393dc7ff60636d2",
+        "title": "Module Code"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false,
+          "_transcript": {
+            "button": "Open transcript"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 1,
+        "_id": "5ae8baba5393dc7ff60636d3",
+        "title": "Module Credits"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false,
+          "_transcript": {
+            "button": "Open transcript"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 2,
+        "_id": "5ae8bac05393dc7ff60636d4",
+        "title": "Module Syllabus"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false,
+          "_transcript": {
+            "button": "Open transcript"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Module Recommended Reading",
+        "_id": "5ae8bacf5393dc7ff60636d5",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ae8ba8e5393dc7ff60636d1",
+    "displayTitle": "Module Descriptor<br>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Module Descriptor",
+    "_type": "component",
+    "_courseOrder": "0-0-1-0"
+  },
+  {
+    "_id": "5ae8bcc85393dc7ff60636d7",
+    "_component": "discussion",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5ae8bcb95393dc7ff60636d6",
+    "loadMoreButtonText": "Load more",
+    "_postsVisibleLimit": 6,
+    "_postEditorInputPlaceholder": "Post a comment...",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ae8bcc85393dc7ff60636d7",
+    "displayTitle": "Open Discussion<br>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Open Discussion",
+    "_type": "component",
+    "_courseOrder": "0-0-2-0"
+  },
+  {
+    "_id": "5af9d3e629ecd05c9f7eca02",
+    "_component": "links",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5af9d08d29ecd05c9f7ec9f8",
+    "_items": [
+      {
+        "_isImageLink": false,
+        "_graphic": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "5af45924a72c6b2ef8ae08d8"
+          }
+        },
+        "_linkTarget": "new window",
+        "_shouldCloseWindow": false,
+        "_shouldCompleteComponentsInPage": false,
+        "_components": [],
+        "_shouldUnlockOnComponent": false,
+        "_isInternalLink": false,
+        "_isButton": false,
+        "_linkPosition": "top",
+        "_linkAlignment": "left",
+        "_isComplete": false,
+        "body": "<p>To find out more about you Assessment details please click <a href=\"https://moodle.wit.ie/course/view.php?id=119411&section=4\" rel=\"noopener noreferrer\" target=\"_blank\">here</a> to view due dates, assignment brief and assignment templates</p>",
+        "_id": "5af9d40029ecd05c9f7eca03",
+        "itemIndex": 0
+      }
+    ],
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": true,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5af9d3e629ecd05c9f7eca02",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Assessment Details",
+    "_type": "component",
+    "_courseOrder": "1-0-0-0"
+  },
+  {
+    "_id": "5ade56bffddd241d59fd3b36",
+    "_component": "videoStream",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5aa91917a7cdb50927663f2f",
+    "_media": {
+      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sA0-QXbLnaE\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+      "_isLightTheme": false,
+      "_isAllowFullscreen": true,
+      "_isAutoHideControls": true,
+      "_isShowClosedCaptions": false,
+      "_isHD": true,
+      "_isKeyboardDisabled": false,
+      "_isLoop": false,
+      "_isShowRelated": false,
+      "_isAutoPlay": false
+    },
+    "_service": "youtube",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ade56bffddd241d59fd3b36",
+    "displayTitle": "Take a look at H5P",
+    "body": "<p>In this video, we can get a basic flavour of what type of interactive objects that H5P has to offer.</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "H5P Introduction",
+    "_type": "component",
+    "_courseOrder": "2-0-0-0"
+  },
+  {
+    "_id": "5af6cba14b33d4241b1a5a66",
+    "_component": "checklist",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5af6cafd4b33d4241b1a5a65",
+    "_items": [
+      {
+        "title": "Course Request Number (CRN)<br>",
+        "_id": "5af6cbcb4b33d4241b1a5a67",
+        "itemIndex": 0
+      },
+      {
+        "title": "Title of the Module<br>",
+        "_id": "5af6cbee4b33d4241b1a5a68",
+        "itemIndex": 1
+      },
+      {
+        "title": "Module Programme<br>",
+        "_id": "5af6cbff4b33d4241b1a5a69",
+        "itemIndex": 2
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5af6cba14b33d4241b1a5a66",
+    "displayTitle": "Module request Checklist<br>",
+    "body": "<p>These are the items you need to include with you Module access request</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Module request Checklist",
+    "_type": "component",
+    "_courseOrder": "2-0-1-0"
+  },
+  {
+    "_id": "5af9e0b029ecd05c9f7eca07",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5af44cf1a72c6b2ef8ae08a3",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5af9e0b029ecd05c9f7eca07",
+    "body": "<p>Remember that you can log into Moodle via the WIT web site</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Key Point",
+    "_type": "component",
+    "_courseOrder": "2-1-0-0"
+  },
+  {
+    "_id": "5af6cfe64b33d4241b1a5a6e",
+    "_component": "videoStream",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5af6cec34b33d4241b1a5a6a",
+    "_media": {
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": true,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false,
+      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sA0-QXbLnaE\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
+    },
+    "_service": "youtube",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5af6cfe64b33d4241b1a5a6e",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "3-0-0-0"
+  },
+  {
+    "_id": "5ae9f4952a8d4f109d667c16",
+    "_component": "checklist",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5af6cf4d4b33d4241b1a5a6d",
+    "_items": [
+      {
+        "itemIndex": 0,
+        "_id": "5ae9f4b82a8d4f109d667c17",
+        "title": "Weekly format will display the dates in the topic header<br>"
+      },
+      {
+        "title": "Topic format can be renamed to the relevant to content inside that topic<br>",
+        "_id": "5ae9f4d22a8d4f109d667c18",
+        "itemIndex": 1
+      },
+      {
+        "title": "Using social or single activity format is restrictive and is not recommended<br>",
+        "_id": "5ae9f4e42a8d4f109d667c19",
+        "itemIndex": 2
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ae9f4952a8d4f109d667c16",
+    "displayTitle": "Module format checklist",
+    "_shouldDisableRecheck": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Checklist Title",
+    "_type": "component",
+    "_courseOrder": "3-1-0-0"
+  },
+  {
+    "_id": "5af6d0754b33d4241b1a5a70",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5af6d03b4b33d4241b1a5a6f",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p>Hard luck, although this format can be used their are some drawbacks to using this format.</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p>Well done thats correct, in general we recommend the simple format because it is content related and you have the ability to rename topics so match the module content, this will enhance the user experience for the student and make their independent learning and revision more efficient.</p>"
+    },
+    "_feedbackInlineStyles": {
+      "_isEnabled": true,
+      "_titleTextAlignment": "center",
+      "_bodyTextAlignment": "center",
+      "_iconAlignment": "center",
+      "_buttonAlignment": "center"
+    },
+    "_feedbackNavigation": {
+      "_incorrect": {
+        "_isEnabled": false
+      },
+      "_partlyCorrect": {
+        "_isEnabled": false
+      },
+      "_correct": {
+        "_isEnabled": false
+      }
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Weekly Format<br>",
+        "_id": "5af6d0ac4b33d4241b1a5a71",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Topics Format<br>",
+        "_id": "5af6d0ba4b33d4241b1a5a72",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Simple Format",
+        "_id": "5af6d0c54b33d4241b1a5a73",
+        "itemIndex": 2
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": true,
+    "_attempts": 3,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "__v": 0,
+    "_refId": "5af6d0754b33d4241b1a5a70",
+    "displayTitle": "",
+    "body": "<p><strong>Question:</strong> Which module format does the CTEL team in WIT recommend?</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "WIT Moodle format",
+    "_type": "component",
+    "_courseOrder": "3-1-1-0"
+  },
+  {
+    "_id": "5af8452609bb9244299b2bee",
+    "_component": "videoStream",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5af8451e09bb9244299b2bed",
+    "_media": {
+      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nghqjBwZTiE\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false
+    },
+    "_service": "youtube",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5af8452609bb9244299b2bee",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "4-0-0-0"
+  },
+  {
+    "_id": "5ae8b8f65393dc7ff60636c8",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5ae446ce25f0aa1451896545",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_graphic": {
+          "src": {
+            "_id": "5af4550da72c6b2ef8ae08c3",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        },
+        "_video": {
+          "_shouldAutoPlay": false,
+          "_transcript": {
+            "button": "Open transcript"
+          }
+        },
+        "_itemGraphicLayout": "left",
+        "body": "<p>The contacts topics area allows you to include contact details such as email,m room location or other appropriate contacts detail you wish to add like social media platforms you may use </p>",
+        "itemIndex": 0,
+        "_id": "5ae8b9215393dc7ff60636c9",
+        "title": "Contacts Details<br>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false,
+          "_transcript": {
+            "button": "Open transcript"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>The Moduel Descriptor topic will contain the module descriptor for the course you are delivering, this allows the student to have total visibility of of content, assessment, recommended reading materials etc</p>",
+        "title": "Module Descriptor<br>",
+        "_id": "5ae8b92c5393dc7ff60636ca",
+        "itemIndex": 1
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false,
+          "_transcript": {
+            "button": "Open transcript"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Assessment Topic<br>",
+        "_id": "5ae8b9325393dc7ff60636cb",
+        "itemIndex": 2,
+        "body": "<p>The Assessment Topic allows the student one location to submit there assignments, ideally each module course should have an assessment topic area.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false,
+          "_transcript": {
+            "button": "Open transcript"
+          }
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>Communication and collaboration is an important part of the student independent learning experience, so it will be important that the Lecturer provide the facility for the student through a structured approach with the use of an open discussions topic area</p>",
+        "title": "Communication<br>",
+        "_id": "5ae8b9385393dc7ff60636cc",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": true,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5ae8b8f65393dc7ff60636c8",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": false
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Steps",
+    "_type": "component",
+    "_courseOrder": "5-0-0-0"
+  },
+  {
+    "_id": "5af45263a72c6b2ef8ae08ba",
+    "_component": "gallery",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5af45247a72c6b2ef8ae08b8",
+    "_items": [
+      {
+        "_graphic": {
+          "large": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "5af45533a72c6b2ef8ae08c6"
+          }
+        },
+        "_id": "5af45284a72c6b2ef8ae08bb",
+        "itemIndex": 0
+      },
+      {
+        "_graphic": {
+          "large": {
+            "_id": "5af4550da72c6b2ef8ae08c3",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 1,
+        "_id": "5af4532da72c6b2ef8ae08bf"
+      },
+      {
+        "_graphic": {
+          "large": {
+            "_id": "5af4550da72c6b2ef8ae08c4",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "5af45567a72c6b2ef8ae08c7"
+      },
+      {
+        "_graphic": {
+          "large": {
+            "_id": "5af4550ea72c6b2ef8ae08c5",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 3,
+        "_id": "5af45576a72c6b2ef8ae08c8"
+      }
+    ],
+    "_thumbnailPosition": "top",
+    "_autoplaySpeed": 3000,
+    "_shouldAutoplay": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5af45263a72c6b2ef8ae08ba",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Topic Contents",
+    "_type": "component",
+    "_courseOrder": "5-0-1-0"
+  },
+  {
+    "_id": "5af9e16529ecd05c9f7eca08",
+    "_component": "videoStream",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5af45811a72c6b2ef8ae08d2",
+    "_media": {
+      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/RUlbTCjnX6E\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false
+    },
+    "_service": "youtube",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5af9e16529ecd05c9f7eca08",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "6-0-0-0"
+  },
+  {
+    "_id": "5af9e1ae29ecd05c9f7eca09",
+    "_component": "videoStream",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5af45b1ca72c6b2ef8ae08df",
+    "_media": {
+      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/RUlbTCjnX6E\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false
+    },
+    "_service": "youtube",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5af9e1ae29ecd05c9f7eca09",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "7-0-0-0"
+  }
+]
