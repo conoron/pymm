@@ -355,6 +355,9 @@
   },
   "_assets": [
     {
+      "_id": "5afd51278ecaf104036ef68a"
+    },
+    {
       "_id": "5ad61d2463f6e60d074a8276"
     },
     {
@@ -369,14 +372,6 @@
       "_id": "59521ebdd6ac909a7354a0b5",
       "_sizes": {
         "extraLarge": true,
-        "large": true,
-        "small": true
-      }
-    },
-    {
-      "_id": "5af42590a72c6b2ef8ae089f",
-      "_sizes": {
-        "extraLarge": false,
         "large": true,
         "small": true
       }
@@ -398,15 +393,47 @@
       }
     },
     {
-      "_id": "5af4550da72c6b2ef8ae08c3",
+      "_id": "5afd4d998ecaf104036ef682",
+      "_sizes": {
+        "extraLarge": false,
+        "large": false,
+        "small": false
+      }
+    },
+    {
+      "_id": "5afb260f0ea88d427cf91681",
       "_sizes": {
         "small": true,
-        "large": true,
+        "large": false,
         "extraLarge": false
       }
     },
     {
-      "_id": "5af45533a72c6b2ef8ae08c6",
+      "_id": "5afb23500ea88d427cf9167a",
+      "_sizes": {
+        "small": true,
+        "large": false,
+        "extraLarge": false
+      }
+    },
+    {
+      "_id": "5afb23430ea88d427cf91679",
+      "_sizes": {
+        "small": true,
+        "large": false,
+        "extraLarge": false
+      }
+    },
+    {
+      "_id": "5afb23380ea88d427cf91678",
+      "_sizes": {
+        "small": true,
+        "large": false,
+        "extraLarge": false
+      }
+    },
+    {
+      "_id": "5afdfce98ecaf104036ef96a",
       "_sizes": {
         "extraLarge": false,
         "large": true,
@@ -414,31 +441,22 @@
       }
     },
     {
-      "_id": "5af4550da72c6b2ef8ae08c4",
-      "_sizes": {
-        "extraLarge": false,
-        "large": true,
-        "small": true
-      }
-    },
-    {
-      "_id": "5af4550ea72c6b2ef8ae08c5",
-      "_sizes": {
-        "extraLarge": false,
-        "large": true,
-        "small": true
-      }
+      "_id": "5afea5abd9db21561676ba35"
     }
   ],
   "_components": [
-    "accordion",
-    "discussion",
-    "links",
     "videoStream",
+    "audio",
+    "accordion",
+    "links",
+    "graphic",
     "checklist",
     "text",
     "mcq",
-    "gallery"
+    "dragAndDrop",
+    "confidenceSlider",
+    "flowChart",
+    "tabs"
   ],
   "_extensions": [
     "courseNavigation"

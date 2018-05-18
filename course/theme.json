@@ -1,6 +1,6 @@
 {
   "_id": "5ade54cafddd241d59fd3b33",
-  "__v": 0,
+  "__v": 4,
   "_extensions": {
     "_videoIntro": {
       "_variables": {
@@ -259,8 +259,8 @@
     },
     "_about": {
       "_settings": {
-        "_headerIcon": "question",
-        "_navigationIcon": "question"
+        "_headerIcon": null,
+        "_navigationIcon": null
       }
     }
   },
@@ -10867,7 +10867,7 @@
       "title": "Primary Darker"
     },
     "@swatch-1": {
-      "color": "rgba(1,69,147,0.6)",
+      "color": "rgba(67,98,155,0.95)",
       "title": "Primary"
     }
   },
@@ -10899,6 +10899,207 @@
     "@font-1": {
       "_fontType": "google",
       "_fontFamily": "Titillium Web"
+    }
+  },
+  "_game": {
+    "_variables": {
+      "@game-power-up-color": "#ffffff",
+      "_gameQuestionItemMarkingIconColors": {
+        "@game-question-item-marking-incorrect-icon-background-color": "#d32f2f",
+        "@game-question-item-marking-correct-icon-background-color": "#009688",
+        "@game-question-item-marking-icon-color": "#ffffff"
+      },
+      "_gameQuestionItemText": {
+        "@game-question-item-text-line-height-mobile": 1.25,
+        "@game-question-item-text-font-weight-mobile": 500,
+        "@game-question-item-text-font-size-mobile": "16px",
+        "@game-question-item-text-line-height-tablet": 1.25,
+        "@game-question-item-text-font-weight-tablet": 500,
+        "@game-question-item-text-font-size-tablet": "18px",
+        "@game-question-item-text-line-height": 1.25,
+        "@game-question-item-text-font-weight": 500,
+        "@game-question-item-text-font-size": "22px",
+        "@game-question-item-text-color": "#212121",
+        "@game-question-item-text-align": "center",
+        "@game-question-item-text-font-family": "@font-1"
+      },
+      "_gameQuestionItemBorders": {
+        "@game-question-item-border-left-color": "#EDEDED",
+        "@game-question-item-border-left-style": "none",
+        "@game-question-item-border-left-width": "1px",
+        "@game-question-item-border-bottom-color": "#EDEDED",
+        "@game-question-item-border-bottom-style": "none",
+        "@game-question-item-border-bottom-width": "1px",
+        "@game-question-item-border-right-color": "#EDEDED",
+        "@game-question-item-border-right-style": "none",
+        "@game-question-item-border-right-width": "1px",
+        "@game-question-item-border-top-color": "#EDEDED",
+        "@game-question-item-border-top-style": "none",
+        "@game-question-item-border-top-width": "1px"
+      },
+      "_gameQuestionItemRadius": {
+        "@game-question-item-border-bottom-left-radius": "3px",
+        "@game-question-item-border-bottom-right-radius": "3px",
+        "@game-question-item-border-top-right-radius": "3px",
+        "@game-question-item-border-top-left-radius": "3px"
+      },
+      "@game-question-item-box-shadow": "0px 1px 1px 0px rgba(0,0,0,0.3)",
+      "@game-question-item-background-color": "#ffffff",
+      "_gameQuestionInstructionText": {
+        "@game-question-instruction-text-line-height-mobile": 1.25,
+        "@game-question-instruction-text-font-weight-mobile": 300,
+        "@game-question-instruction-text-font-size-mobile": "16px",
+        "@game-question-instruction-text-line-height-tablet": 1.25,
+        "@game-question-instruction-text-font-weight-tablet": 300,
+        "@game-question-instruction-text-font-size-tablet": "16px",
+        "@game-question-instruction-text-line-height": 1.25,
+        "@game-question-instruction-text-font-weight": 300,
+        "@game-question-instruction-text-font-size": "16px",
+        "@game-question-instruction-text-color": "#ffffff",
+        "@game-question-instruction-text-align": "center",
+        "@game-question-instruction-text-font-family": "@font-1"
+      },
+      "_gameQuestionText": {
+        "@game-question-text-line-height-mobile": 1.25,
+        "@game-question-text-font-weight-mobile": 300,
+        "@game-question-text-font-size-mobile": "18px",
+        "@game-question-text-line-height-tablet": 1.25,
+        "@game-question-text-font-weight-tablet": 300,
+        "@game-question-text-font-size-tablet": "22px",
+        "@game-question-text-line-height": 1.25,
+        "@game-question-text-font-weight": 300,
+        "@game-question-text-font-size": "26px",
+        "@game-question-text-color": "#ffffff",
+        "@game-question-text-align": "center",
+        "@game-question-text-font-family": "@font-1"
+      },
+      "_gameTimerColors": {
+        "@game-timer-icon-color": "#ffffff",
+        "@game-timer-background-color": "#007b70"
+      },
+      "@game-question-max-width": "960px",
+      "_gameSkipQuestionButtonColors": {
+        "@game-skip-question-button-text-hover-color": "#ffffff",
+        "@game-skip-question-button-text-color": "#ffffff",
+        "@game-skip-question-button-border-hover-color": "#096159",
+        "@game-skip-question-button-border-color": "#017b70",
+        "@game-skip-question-button-background-hover-color": "#096159",
+        "@game-skip-question-button-background-color": "#017b70"
+      },
+      "_gameRoundIndicatorColors": {
+        "@game-round-indicator-incorrect-icon-color": "#d32f2f",
+        "@game-round-indicator-correct-icon-color": "#009688",
+        "@game-round-indicator-color": "#ffffff"
+      },
+      "_gameRoundOfText": {
+        "@game-dialog-round-of-text-line-height-mobile": 1.25,
+        "@game-dialog-round-of-text-font-weight-mobile": 400,
+        "@game-dialog-round-of-text-font-size-mobile": "16px",
+        "@game-dialog-round-of-text-line-height-tablet": 1.25,
+        "@game-dialog-round-of-text-font-weight-tablet": 400,
+        "@game-dialog-round-of-text-font-size-tablet": "16px",
+        "@game-dialog-round-of-text-line-height": 1.25,
+        "@game-dialog-round-of-text-font-weight": 500,
+        "@game-dialog-round-of-text-font-size": "16px",
+        "@game-dialog-round-of-text-color": "#ffffff",
+        "@game-dialog-round-of-text-align": "center",
+        "@game-dialog-round-of-text-font-family": "@font-1"
+      },
+      "@game-dialog-buttons-alignment": "center",
+      "_gameDialogExitButtonColors": {
+        "@game-dialog-exit-button-text-hover-color": "#009688",
+        "@game-dialog-exit-button-text-color": "#009688",
+        "@game-dialog-exit-button-border-hover-color": "#ffffff",
+        "@game-dialog-exit-button-border-color": "#ffffff",
+        "@game-dialog-exit-button-background-hover-color": "#f5f5f5",
+        "@game-dialog-exit-button-background-color": "#ffffff"
+      },
+      "_gameDialogButtonColors": {
+        "@game-dialog-button-text-hover-color": "#ffffff",
+        "@game-dialog-button-text-color": "#ffffff",
+        "@game-dialog-button-border-hover-color": "#017b70",
+        "@game-dialog-button-border-color": "#009688",
+        "@game-dialog-button-background-hover-color": "#017b70",
+        "@game-dialog-button-background-color": "#009688"
+      },
+      "_gameDialogBodyTextMargin": {
+        "@game-dialog-body-text-margin-left-mobile": "0px",
+        "@game-dialog-body-text-margin-bottom-mobile": "16px",
+        "@game-dialog-body-text-margin-right-mobile": "0px",
+        "@game-dialog-body-text-margin-top-mobile": "0px",
+        "@game-dialog-body-text-margin-left-tablet": "0px",
+        "@game-dialog-body-text-margin-bottom-tablet": "16px",
+        "@game-dialog-body-text-margin-right-tablet": "0px",
+        "@game-dialog-body-text-margin-top-tablet": "0px",
+        "@game-dialog-body-text-margin-left": "0px",
+        "@game-dialog-body-text-margin-bottom": "16px",
+        "@game-dialog-body-text-margin-right": "0px",
+        "@game-dialog-body-text-margin-top": "0px"
+      },
+      "_gameDialogBodyText": {
+        "@game-dialog-body-text-line-height-mobile": 1.25,
+        "@game-dialog-body-text-font-weight-mobile": 400,
+        "@game-dialog-body-text-font-size-mobile": "16px",
+        "@game-dialog-body-text-line-height-tablet": 1.25,
+        "@game-dialog-body-text-font-weight-tablet": 400,
+        "@game-dialog-body-text-font-size-tablet": "16px",
+        "@game-dialog-body-text-line-height": 1.25,
+        "@game-dialog-body-text-font-weight": 400,
+        "@game-dialog-body-text-font-size": "16px",
+        "@game-dialog-body-text-color": "#212121",
+        "@game-dialog-body-text-align": "center",
+        "@game-dialog-body-text-font-family": "@font-1"
+      },
+      "_gameDialogTitleTextMargin": {
+        "@game-dialog-title-text-margin-left-mobile": "0px",
+        "@game-dialog-title-text-margin-bottom-mobile": "16px",
+        "@game-dialog-title-text-margin-right-mobile": "0px",
+        "@game-dialog-title-text-margin-top-mobile": "0px",
+        "@game-dialog-title-text-margin-left-tablet": "0px",
+        "@game-dialog-title-text-margin-bottom-tablet": "16px",
+        "@game-dialog-title-text-margin-right-tablet": "0px",
+        "@game-dialog-title-text-margin-top-tablet": "0px",
+        "@game-dialog-title-text-margin-left": "0px",
+        "@game-dialog-title-text-margin-bottom": "16px",
+        "@game-dialog-title-text-margin-right": "0px",
+        "@game-dialog-title-text-margin-top": "0px"
+      },
+      "_gameDialogTitleText": {
+        "@game-dialog-title-text-line-height-mobile": 1.25,
+        "@game-dialog-title-text-font-weight-mobile": 400,
+        "@game-dialog-title-text-font-size-mobile": "18px",
+        "@game-dialog-title-text-line-height-tablet": 1.25,
+        "@game-dialog-title-text-font-weight-tablet": 400,
+        "@game-dialog-title-text-font-size-tablet": "22px",
+        "@game-dialog-title-text-line-height": 1.25,
+        "@game-dialog-title-text-font-weight": 500,
+        "@game-dialog-title-text-font-size": "26px",
+        "@game-dialog-title-text-color": "#212121",
+        "@game-dialog-title-text-align": "center",
+        "@game-dialog-title-text-font-family": "@font-1"
+      },
+      "@game-dialog-max-width": "720px",
+      "@game-dialog-box-shadow": "0px 1px 1px 0px rgba(0,0,0,0.3)",
+      "_gameDialogBorderRadius": {
+        "@game-dialog-border-bottom-left-radius": "3px",
+        "@game-dialog-border-bottom-right-radius": "3px",
+        "@game-dialog-border-top-right-radius": "3px",
+        "@game-dialog-border-top-left-radius": "3px"
+      },
+      "@game-dialog-background-color": "#EDEDED",
+      "@game-status-bar-progress-rank-label-text-color": "#ffffff",
+      "@game-status-bar-progress-rank-border-radius": "3px",
+      "@game-status-bar-progress-rank-text-color": "#009688",
+      "@game-status-bar-progress-rank-background-color": "#EDEDED",
+      "@game-status-bar-progress-counter-border-radius": "3px",
+      "@game-status-bar-progress-counter-text-color": "#009688",
+      "@game-status-bar-progress-counter-background-color": "#EDEDED",
+      "@game-status-bar-progress-border-radius": "3px",
+      "@game-status-bar-progress-highlight-color": "#EDEDED",
+      "@game-status-bar-progress-color": "rgba(255,255,255,0.30)",
+      "@game-status-bar-background-color": "rgba(255, 255, 255, 0.4)",
+      "@game-status-bar-height": "54px",
+      "@game-background-color": "#009688"
     }
   },
   "_loading": {
@@ -11191,9 +11392,9 @@
     "_variables": {
       "@link-text-decoration": "underline",
       "_linkColors": {
-        "@link-text-visited-color": "@swatch-6",
-        "@link-text-hover-color": "@swatch-6",
-        "@link-text-color": "@swatch-5"
+        "@link-text-visited-color": "@swatch-2",
+        "@link-text-hover-color": "@swatch-25",
+        "@link-text-color": "@swatch-1"
       }
     }
   },
@@ -11511,11 +11712,11 @@
         "@component-item-text-color": "#ffffff"
       },
       "_componentItemBackgroundColor": {
-        "@component-item-background-visited-color": "@swatch-6",
+        "@component-item-background-visited-color": "@swatch-4",
         "@component-item-background-disabled-color": "@swatch-25",
-        "@component-item-background-selected-color": "@swatch-6",
-        "@component-item-background-hover-color": "@swatch-6",
-        "@component-item-background-color": "@swatch-5"
+        "@component-item-background-selected-color": "@swatch-7",
+        "@component-item-background-hover-color": "@swatch-25",
+        "@component-item-background-color": "@swatch-1"
       }
     }
   },
@@ -12133,7 +12334,7 @@
       "@article-icon-size": "34px",
       "@article-icon-color": "transparent",
       "@article-icon-background-color": "transparent",
-      "@article-background-color": "@swatch-11"
+      "@article-background-color": "@swatch-21"
     },
     "_settings": {
       "_mobileArticleTitleDecoration": {
@@ -13252,18 +13453,46 @@
   "_icons": "default",
   "_assets": [
     {
-      "_url": "player/css/assets/themeAssets/images/5aaab427a7cdb509276640db.png",
-      "_name": "5aaab427a7cdb509276640db.png",
-      "_type": "image",
+      "_id": "5aaab427a7cdb509276640db",
       "title": "Assessment_Header",
-      "_id": "5aaab427a7cdb509276640db"
+      "_type": "image",
+      "_name": "5aaab427a7cdb509276640db.png",
+      "_url": "player/css/assets/themeAssets/images/5aaab427a7cdb509276640db.png"
     },
     {
-      "_id": "5ac3ece113ac9d0facb11db8",
-      "title": "Assessment-Headers",
-      "_type": "image",
+      "_url": "player/css/assets/themeAssets/images/5ac3ece113ac9d0facb11db8.png",
       "_name": "5ac3ece113ac9d0facb11db8.png",
-      "_url": "player/css/assets/themeAssets/images/5ac3ece113ac9d0facb11db8.png"
+      "_type": "image",
+      "title": "Assessment-Headers",
+      "_id": "5ac3ece113ac9d0facb11db8"
+    },
+    {
+      "_id": "5afb2da60ea88d427cf9168a",
+      "title": "Webp.net-resizeimage",
+      "_type": "image",
+      "_name": "5afb2da60ea88d427cf9168a.png",
+      "_url": "player/css/assets/themeAssets/images/5afb2da60ea88d427cf9168a.png"
+    },
+    {
+      "_id": "5afb2db30ea88d427cf9168b",
+      "title": "assignment",
+      "_type": "image",
+      "_name": "5afb2db30ea88d427cf9168b.png",
+      "_url": "player/css/assets/themeAssets/images/5afb2db30ea88d427cf9168b.png"
+    },
+    {
+      "_id": "5afb2dbf0ea88d427cf9168c",
+      "title": "page",
+      "_type": "image",
+      "_name": "5afb2dbf0ea88d427cf9168c.png",
+      "_url": "player/css/assets/themeAssets/images/5afb2dbf0ea88d427cf9168c.png"
+    },
+    {
+      "_id": "5afb2dca0ea88d427cf9168d",
+      "title": "forum",
+      "_type": "image",
+      "_name": "5afb2dca0ea88d427cf9168d.png",
+      "_url": "player/css/assets/themeAssets/images/5afb2dca0ea88d427cf9168d.png"
     }
   ],
   "_preset": {

@@ -1,49 +1,7 @@
 [
   {
-    "_id": "5ae4496d25f0aa1451896548",
-    "_courseId": "5aa81c34a7cdb50927663ec1",
-    "_parentId": "5ae4496d25f0aa1451896547",
-    "_sortOrder": 0,
-    "__v": 0,
-    "_refId": "5ae4496d25f0aa1451896548",
-    "_courseAttainment": {
-      "_isEnabled": false
-    },
-    "_componentsVerticalAlignment": "top",
-    "_singleWidthIsCentered": true,
-    "_singleWidthComponentLayout": "default",
-    "_classes": "",
-    "title": "Course Contact",
-    "_type": "block",
-    "_courseOrder": "0-0-0",
-    "_childrenIds": [
-      "5ae71f6b5de87d5cf1179bb7"
-    ]
-  },
-  {
-    "_id": "5ae8ba875393dc7ff60636d0",
-    "_sortOrder": 1,
-    "_parentId": "5ae4496d25f0aa1451896547",
-    "_courseId": "5aa81c34a7cdb50927663ec1",
-    "__v": 0,
-    "_refId": "5ae8ba875393dc7ff60636d0",
-    "_courseAttainment": {
-      "_isEnabled": false
-    },
-    "_componentsVerticalAlignment": "top",
-    "_singleWidthIsCentered": true,
-    "_singleWidthComponentLayout": "default",
-    "_classes": "",
-    "title": "Module Descriptor",
-    "_type": "block",
-    "_courseOrder": "0-0-1",
-    "_childrenIds": [
-      "5ae8ba8e5393dc7ff60636d1"
-    ]
-  },
-  {
     "_id": "5ae8bcb95393dc7ff60636d6",
-    "_sortOrder": 2,
+    "_sortOrder": 0,
     "_parentId": "5ae4496d25f0aa1451896547",
     "_courseId": "5aa81c34a7cdb50927663ec1",
     "__v": 0,
@@ -58,9 +16,51 @@
     "_classes": "",
     "title": "Open Student Discussion",
     "_type": "block",
+    "_courseOrder": "0-0-0",
+    "_childrenIds": [
+      "5afd4f488ecaf104036ef687"
+    ]
+  },
+  {
+    "_id": "5afea549d9db21561676ba32",
+    "_sortOrder": 1,
+    "_parentId": "5ae4496d25f0aa1451896547",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5afea549d9db21561676ba32",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Course Intro",
+    "_type": "block",
+    "_courseOrder": "0-0-1",
+    "_childrenIds": [
+      "5afea560d9db21561676ba33"
+    ]
+  },
+  {
+    "_id": "5ae4496d25f0aa1451896548",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5ae4496d25f0aa1451896547",
+    "_sortOrder": 2,
+    "__v": 0,
+    "_refId": "5ae4496d25f0aa1451896548",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Course Contact",
+    "_type": "block",
     "_courseOrder": "0-0-2",
     "_childrenIds": [
-      "5ae8bcc85393dc7ff60636d7"
+      "5ae71f6b5de87d5cf1179bb7"
     ]
   },
   {
@@ -71,6 +71,7 @@
     "__v": 0,
     "_refId": "5af9d08d29ecd05c9f7ec9f8",
     "displayTitle": "Assessment Details<br>",
+    "body": "<p>As you work through the labs you will be asked to interact with some questions and checklists, these are put in place so help with your understanding of the content of the course and also the progress you making.</p><p><br></p><p>As part of overall assessment of this course you will be asked to upload the link for your Sandbox course which will be graded, feedback will also be provided once you have this submitted.</p><p><br></p><p>You will also take a small quiz to test your understanding of the concept of priming you Moodle module.</p>",
     "_courseAttainment": {
       "_isEnabled": false
     },
@@ -83,6 +84,27 @@
     "_courseOrder": "1-0-0",
     "_childrenIds": [
       "5af9d3e629ecd05c9f7eca02"
+    ]
+  },
+  {
+    "_id": "5afb502b0ea88d427cf9169b",
+    "_sortOrder": 1,
+    "_parentId": "5adf6301eaa5be6f7e4e9654",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5afb502b0ea88d427cf9169b",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Assessment Schedule",
+    "_type": "block",
+    "_courseOrder": "1-0-1",
+    "_childrenIds": [
+      "5afdfcc68ecaf104036ef968"
     ]
   },
   {
@@ -113,8 +135,8 @@
     "_courseId": "5aa81c34a7cdb50927663ec1",
     "__v": 0,
     "_refId": "5af6cafd4b33d4241b1a5a65",
-    "displayTitle": "Module Request<br>",
-    "body": "<p>In order to get access to your module in Moodle you first email the CTEL team at <a href=\"mailto:moodle@wit.ie\">moodle@wit.ie</a> requesting the access to the Module, each module with have a unique five digit number, please include this number with you request.</p>",
+    "displayTitle": "<strong>Sandbox</strong><br>",
+    "body": "<p>Your Sandbox area in Moodle is just a test area where you can test different activities and ideas, before you start this course you will be set up with with full edit access to this Sandbox area.</p><p><br></p><p><br></p><p><strong>Module Request</strong></p><p>In order to get access to a module your Head of Department has allocated to you to deliver, you first need email the CTEL team at <a href=\"mailto:moodle@wit.ie\">moodle@wit.ie</a> requesting the access to the Module, each module with have a unique five digit number, please include this number with you request.</p><p><br></p>",
     "_courseAttainment": {
       "_isEnabled": false
     },
@@ -238,6 +260,27 @@
     ]
   },
   {
+    "_id": "5afb20cb0ea88d427cf91672",
+    "_sortOrder": 1,
+    "_parentId": "5ae4457825f0aa1451896541",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5afb20cb0ea88d427cf91672",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Differences",
+    "_type": "block",
+    "_courseOrder": "4-0-1",
+    "_childrenIds": [
+      "5afb20f50ea88d427cf91673"
+    ]
+  },
+  {
     "_id": "5ae446ce25f0aa1451896545",
     "_courseId": "5aa81c34a7cdb50927663ec1",
     "_parentId": "5ae446ce25f0aa1451896544",
@@ -273,11 +316,11 @@
     "_singleWidthIsCentered": true,
     "_singleWidthComponentLayout": "default",
     "_classes": "",
-    "title": "New Block Title",
+    "title": "Scale",
     "_type": "block",
     "_courseOrder": "5-0-1",
     "_childrenIds": [
-      "5af45263a72c6b2ef8ae08ba"
+      "5afa081829ecd05c9f7eca0a"
     ]
   },
   {
@@ -302,6 +345,27 @@
     ]
   },
   {
+    "_id": "5afa245c0ea88d427cf9161f",
+    "_sortOrder": 1,
+    "_parentId": "5af45811a72c6b2ef8ae08d1",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5afa245c0ea88d427cf9161f",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Next",
+    "_type": "block",
+    "_courseOrder": "6-0-1",
+    "_childrenIds": [
+      "5afa27cc0ea88d427cf91623"
+    ]
+  },
+  {
     "_id": "5af45b1ca72c6b2ef8ae08df",
     "_courseId": "5aa81c34a7cdb50927663ec1",
     "_parentId": "5af45b1ca72c6b2ef8ae08de",
@@ -315,11 +379,54 @@
     "_singleWidthIsCentered": true,
     "_singleWidthComponentLayout": "default",
     "_classes": "",
-    "title": "Step 1",
+    "title": "H5P Tabs",
     "_type": "block",
     "_courseOrder": "7-0-0",
     "_childrenIds": [
       "5af9e1ae29ecd05c9f7eca09"
+    ]
+  },
+  {
+    "_id": "5afa27460ea88d427cf91621",
+    "_sortOrder": 1,
+    "_parentId": "5af45b1ca72c6b2ef8ae08de",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5afa27460ea88d427cf91621",
+    "displayTitle": "<strong>H5P Tabs</strong><br>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "H5P Tabs",
+    "_type": "block",
+    "_courseOrder": "7-0-1",
+    "_childrenIds": [
+      "5afd901d8ecaf104036ef7a6"
+    ]
+  },
+  {
+    "_id": "5afb313f0ea88d427cf91692",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5afb313f0ea88d427cf91691",
+    "_sortOrder": 0,
+    "__v": 0,
+    "_refId": "5afb313f0ea88d427cf91692",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Home link",
+    "_type": "block",
+    "_courseOrder": "7-1-0",
+    "_childrenIds": [
+      "5afb31510ea88d427cf91693"
     ]
   }
 ]

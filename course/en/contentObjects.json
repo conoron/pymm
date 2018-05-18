@@ -76,6 +76,20 @@
         "layout": "center"
       }
     },
+    "_playlistMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_desktopBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      }
+    },
     "_mapMenu": {
       "_pointerWidth": 0,
       "_defaultPointerWidth": 0,
@@ -152,10 +166,21 @@
           "_left": "0",
           "_top": "0"
         },
-        "_position": "bottom-right"
+        "_position": "bottom-right",
+        "src": null
+      },
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_id": "5af45924a72c6b2ef8ae08d8",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "small"
+          }
+        }
       },
       "_contentWidth": 70,
-      "layout": "center",
+      "layout": "top",
       "_isEnabled": false
     },
     "_completionComponentIds": [],
@@ -172,15 +197,20 @@
       "_position": "bottom-right",
       "_isFloatingGraphic": false,
       "_hideOnMobile": false,
-      "_isOverridingTheme": false
+      "_isOverridingTheme": true,
+      "src": {
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5afd4d998ecaf104036ef682"
+      }
     },
     "title": "Course Information",
     "_type": "page",
     "_courseOrder": "0",
     "_descendantComponentIds": [
-      "5ae71f6b5de87d5cf1179bb7",
-      "5ae8ba8e5393dc7ff60636d1",
-      "5ae8bcc85393dc7ff60636d7"
+      "5afd4f488ecaf104036ef687",
+      "5afea560d9db21561676ba33",
+      "5ae71f6b5de87d5cf1179bb7"
     ],
     "_childrenIds": [
       "5ae4496d25f0aa1451896547"
@@ -262,6 +292,20 @@
       "_heroImage": {
         "_contentWidth": 70,
         "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_desktopBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
       }
     },
     "_mapMenu": {
@@ -371,7 +415,8 @@
     "_type": "page",
     "_courseOrder": "1",
     "_descendantComponentIds": [
-      "5af9d3e629ecd05c9f7eca02"
+      "5af9d3e629ecd05c9f7eca02",
+      "5afdfcc68ecaf104036ef968"
     ],
     "_childrenIds": [
       "5adf6301eaa5be6f7e4e9654"
@@ -457,6 +502,20 @@
         "layout": "center"
       }
     },
+    "_playlistMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_desktopBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      }
+    },
     "_mapMenu": {
       "_pointerWidth": 0,
       "_defaultPointerWidth": 0,
@@ -537,19 +596,14 @@
       },
       "_graphic": {
         "_large": {
-          "src": {
-            "_size": "large",
-            "_type": "image",
-            "_extension": "jpeg",
-            "_id": "5af42590a72c6b2ef8ae089f"
-          }
+          "src": null
         },
         "_extraLarge": {
           "src": {
-            "_size": "extraLarge",
-            "_type": "image",
+            "_id": "59521ebdd6ac909a7354a0b5",
             "_extension": "jpeg",
-            "_id": "59521ebdd6ac909a7354a0b5"
+            "_type": "image",
+            "_size": "extraLarge"
           }
         }
       },
@@ -667,6 +721,20 @@
       "_heroImage": {
         "_contentWidth": 70,
         "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_desktopBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
       }
     },
     "_mapMenu": {
@@ -863,6 +931,20 @@
         "layout": "center"
       }
     },
+    "_playlistMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_desktopBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      }
+    },
     "_mapMenu": {
       "_pointerWidth": 0,
       "_defaultPointerWidth": 0,
@@ -965,7 +1047,8 @@
     "_type": "page",
     "_courseOrder": "4",
     "_descendantComponentIds": [
-      "5af8452609bb9244299b2bee"
+      "5af8452609bb9244299b2bee",
+      "5afb20f50ea88d427cf91673"
     ],
     "_childrenIds": [
       "5ae4457825f0aa1451896541"
@@ -979,9 +1062,9 @@
     "__v": 0,
     "_refId": "5ae446ce25f0aa1451896543",
     "displayTitle": "Lab 4 Set up Minimum Structure",
-    "duration": "5",
+    "duration": "3",
     "body": "",
-    "description": "<p>In this Lab we will look at building some minimum course content, will start with setting up structure around sections, contact details, assessment details and setting up a discussion forum</p>",
+    "description": "<p>In this Lab we will look at building some minimum course structure around sections, contact details, assessment details and an open discussion area, we look at how the student view&#39;s these topics.</p>",
     "_swipeMenu": {
       "prevButtonAriaLabel": "Previous",
       "nextButtonAriaLabel": "Next",
@@ -1047,6 +1130,20 @@
       "_heroImage": {
         "_contentWidth": 70,
         "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_desktopBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
       }
     },
     "_mapMenu": {
@@ -1152,7 +1249,7 @@
     "_courseOrder": "5",
     "_descendantComponentIds": [
       "5ae8b8f65393dc7ff60636c8",
-      "5af45263a72c6b2ef8ae08ba"
+      "5afa081829ecd05c9f7eca0a"
     ],
     "_childrenIds": [
       "5ae446ce25f0aa1451896544"
@@ -1168,7 +1265,7 @@
     "displayTitle": "Lab 5 Build Content",
     "body": "",
     "description": "<p>In this lab we will look at adding some activity to our course, so we will add some Moodle activities such as a Discussion form and we will add in our Module Descriptor and Assessment Files</p>",
-    "duration": "5",
+    "duration": "7",
     "_swipeMenu": {
       "prevButtonAriaLabel": "Previous",
       "nextButtonAriaLabel": "Next",
@@ -1234,6 +1331,20 @@
       "_heroImage": {
         "_contentWidth": 70,
         "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_desktopBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
       }
     },
     "_mapMenu": {
@@ -1338,7 +1449,8 @@
     "_type": "page",
     "_courseOrder": "6",
     "_descendantComponentIds": [
-      "5af9e16529ecd05c9f7eca08"
+      "5af9e16529ecd05c9f7eca08",
+      "5afa27cc0ea88d427cf91623"
     ],
     "_childrenIds": [
       "5af45811a72c6b2ef8ae08d1"
@@ -1352,7 +1464,7 @@
     "__v": 0,
     "_refId": "5af45b1ca72c6b2ef8ae08dd",
     "displayTitle": "Lab 6 Build H5P Content",
-    "description": "<p>H5p contant is interactive and will allow you as the Lecturer to add interactive content, such as interactive video, interactive presentations, quizzes, drag and drop and many more.</p>",
+    "description": "<p>H5p content is interactive and will allow you as the Lecturer to add content that is engaging, such as interactive video, interactive presentations, quizzes, drag and drop and many more.</p>",
     "duration": "10",
     "_swipeMenu": {
       "prevButtonAriaLabel": "Previous",
@@ -1419,6 +1531,20 @@
       "_heroImage": {
         "_contentWidth": 70,
         "layout": "center"
+      }
+    },
+    "_playlistMenu": {
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_desktopBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
       }
     },
     "_mapMenu": {
@@ -1523,10 +1649,13 @@
     "_type": "page",
     "_courseOrder": "7",
     "_descendantComponentIds": [
-      "5af9e1ae29ecd05c9f7eca09"
+      "5af9e1ae29ecd05c9f7eca09",
+      "5afd901d8ecaf104036ef7a6",
+      "5afb31510ea88d427cf91693"
     ],
     "_childrenIds": [
-      "5af45b1ca72c6b2ef8ae08de"
+      "5af45b1ca72c6b2ef8ae08de",
+      "5afb313f0ea88d427cf91691"
     ]
   }
 ]
