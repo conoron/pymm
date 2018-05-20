@@ -6,16 +6,16 @@
     "_courseId": "5aa81c34a7cdb50927663ec1",
     "_parentId": "5ae8bcb95393dc7ff60636d6",
     "_media": {
-      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CkNV0n6t-eQ\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
-      "_isAutoPlay": false,
-      "_isShowRelated": false,
-      "_isLoop": false,
-      "_isKeyboardDisabled": false,
-      "_isHD": true,
-      "_isShowClosedCaptions": false,
-      "_isAutoHideControls": true,
+      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/RAslYXu1Ngc\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+      "_isLightTheme": false,
       "_isAllowFullscreen": true,
-      "_isLightTheme": false
+      "_isAutoHideControls": true,
+      "_isShowClosedCaptions": false,
+      "_isHD": true,
+      "_isKeyboardDisabled": false,
+      "_isLoop": false,
+      "_isShowRelated": false,
+      "_isAutoPlay": false
     },
     "_service": "youtube",
     "_setCompletionOn": "inview",
@@ -103,7 +103,7 @@
     "_isQuestionType": false,
     "__v": 0,
     "_refId": "5afea560d9db21561676ba33",
-    "body": "<p>This is an Introduction to this course, please take a minute to listen and if you have any question please feel free to contact me with any of the contact details listed below</p>",
+    "body": "<p>This is an Introduction, outline and overall goals of this course, please take a minute to listen and if you have any question please feel free to contact me with any of the contact details listed below</p>",
     "displayTitle": "<strong>Course Introduction Audio</strong><br>",
     "_tags": {
       "_tagsList": [],
@@ -452,10 +452,10 @@
     "_courseId": "5aa81c34a7cdb50927663ec1",
     "_parentId": "5aa91917a7cdb50927663f2f",
     "_media": {
-      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sA0-QXbLnaE\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zEbP5GWwy8s?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
       "_isLightTheme": false,
       "_isAllowFullscreen": true,
-      "_isAutoHideControls": true,
+      "_isAutoHideControls": false,
       "_isShowClosedCaptions": false,
       "_isHD": true,
       "_isKeyboardDisabled": false,
@@ -473,7 +473,7 @@
     "__v": 0,
     "_refId": "5ade56bffddd241d59fd3b36",
     "displayTitle": "<strong>Introduction Video</strong>",
-    "body": "<p>In this video we can se how a staff member can find the Moodle login page and what to expect when they get into moodle.</p>",
+    "body": "<p>In this video, we can see how a staff member can find the Moodle login page and what to expect when they get into Moodle.</p>",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -597,6 +597,76 @@
     "_courseOrder": "2-0-1-0"
   },
   {
+    "_id": "5b01b19a96fa0560d693263b",
+    "_component": "hint",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5b01b18496fa0560d693263a",
+    "_items": [
+      {
+        "popupButtonText": "Close",
+        "body": "<p>Login to Moodle and navigate to your Sandbox area, if you can not find the Sandbox area please contact the Lecturer</p>",
+        "itemIndex": 0,
+        "_id": "5b01b1a596fa0560d693263c",
+        "title": "Task 1",
+        "buttonText": "Complete Task 1"
+      }
+    ],
+    "_numberOfColumns": 3,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5b01b19a96fa0560d693263b",
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Task 1",
+    "_type": "component",
+    "_courseOrder": "2-0-2-0"
+  },
+  {
     "_id": "5af9e0b029ecd05c9f7eca07",
     "_component": "text",
     "_layout": "full",
@@ -664,14 +734,14 @@
     "_media": {
       "_isAutoPlay": false,
       "_isShowRelated": false,
-      "_isLoop": true,
+      "_isLoop": false,
       "_isKeyboardDisabled": false,
       "_isHD": true,
       "_isShowClosedCaptions": false,
-      "_isAutoHideControls": true,
+      "_isAutoHideControls": false,
       "_isAllowFullscreen": true,
       "_isLightTheme": false,
-      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sA0-QXbLnaE\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
+      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CEDHulP8dGw?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
     },
     "_service": "youtube",
     "_setCompletionOn": "inview",
@@ -948,22 +1018,94 @@
     "_courseOrder": "3-1-1-0"
   },
   {
+    "_id": "5b01ae4f96fa0560d693262b",
+    "_component": "hint",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5b01a51496fa0560d69325a5",
+    "_items": [
+      {
+        "popupButtonText": "Close",
+        "body": "<p>Login to Moodle and navigate to your Sandbox area, make sure the format of your course is set to Simple format</p>",
+        "_id": "5b01ae5596fa0560d693262c",
+        "itemIndex": 0,
+        "title": "Task 2",
+        "buttonText": "Complete Task 2"
+      }
+    ],
+    "_numberOfColumns": 3,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5b01ae4f96fa0560d693262b",
+    "displayTitle": "",
+    "instruction": "",
+    "body": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Task 2",
+    "_type": "component",
+    "_courseOrder": "3-1-2-0"
+  },
+  {
     "_id": "5af8452609bb9244299b2bee",
     "_component": "videoStream",
     "_layout": "full",
     "_courseId": "5aa81c34a7cdb50927663ec1",
     "_parentId": "5af8451e09bb9244299b2bed",
     "_media": {
+      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/clO6WzM92Vo?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
       "_isLightTheme": false,
       "_isAllowFullscreen": true,
-      "_isAutoHideControls": true,
+      "_isAutoHideControls": false,
       "_isShowClosedCaptions": false,
       "_isHD": true,
       "_isKeyboardDisabled": false,
       "_isLoop": false,
       "_isShowRelated": false,
-      "_isAutoPlay": false,
-      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sA0-QXbLnaE\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
+      "_isAutoPlay": false
     },
     "_service": "youtube",
     "_setCompletionOn": "inview",
@@ -1029,11 +1171,11 @@
       "_shouldUseGlobalCorrectFeedback": false,
       "_incorrect": {
         "_shouldUseGlobalIncorrectFeedback": false,
-        "notFinal": "<p>Hard luck, your not finished</p>",
-        "final": "<p>Hard luck, try again</p>"
+        "final": "<p>Hard luck, try again</p>",
+        "notFinal": "<p>Hard luck, your not finished</p>"
       },
       "_partlyCorrect": {
-        "_shouldUseGlobalPartlyCorrectFeedback": false
+        "_shouldUseGlobalPartlyCorrectFeedback": true
       },
       "_correctGraphic": {
         "_position": "right"
@@ -1060,14 +1202,14 @@
       "_isEnabled": false
     },
     "_feedbackNavigation": {
-      "_incorrect": {
-        "_isEnabled": false
+      "_correct": {
+        "_isEnabled": true
       },
       "_partlyCorrect": {
         "_isEnabled": false
       },
-      "_correct": {
-        "_isEnabled": false
+      "_incorrect": {
+        "_isEnabled": true
       }
     },
     "_hasHorizontalDropZones": false,
@@ -1179,6 +1321,7 @@
     "_isQuestionType": true,
     "__v": 0,
     "_refId": "5afb20f50ea88d427cf91673",
+    "displayTitle": "",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -1225,6 +1368,148 @@
     "_courseOrder": "4-0-1-0"
   },
   {
+    "_id": "5b01b22796fa0560d6932643",
+    "_component": "hint",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5b01b21296fa0560d6932642",
+    "_items": [
+      {
+        "popupButtonText": "Close",
+        "body": "<p>Login to Moodle and navigate to your Sandbox area, turn editing on and check out the different activities and recourses. </p>",
+        "itemIndex": 0,
+        "_id": "5b01b2d896fa0560d6932647",
+        "title": "Task 3",
+        "buttonText": "Complete Task 3"
+      }
+    ],
+    "_numberOfColumns": 3,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5b01b22796fa0560d6932643",
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Task 3",
+    "_type": "component",
+    "_courseOrder": "4-0-2-0"
+  },
+  {
+    "_id": "5afff616d104200e3f46bac9",
+    "_component": "videoStream",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5afff60fd104200e3f46bac8",
+    "_media": {
+      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zaBm-mcn6W4?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+      "_isAutoPlay": false,
+      "_isShowRelated": false,
+      "_isLoop": false,
+      "_isKeyboardDisabled": false,
+      "_isHD": true,
+      "_isShowClosedCaptions": false,
+      "_isAutoHideControls": true,
+      "_isAllowFullscreen": true,
+      "_isLightTheme": false
+    },
+    "_service": "youtube",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5afff616d104200e3f46bac9",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Lab4 ",
+    "_type": "component",
+    "_courseOrder": "5-0-0-0"
+  },
+  {
     "_id": "5ae8b8f65393dc7ff60636c8",
     "_component": "accordion",
     "_layout": "full",
@@ -1243,7 +1528,7 @@
         "title": "Contacts Details<br>",
         "_id": "5ae8b9215393dc7ff60636c9",
         "itemIndex": 0,
-        "body": "<p>The contacts topics area allows you to include contact details such as email,m room location or other appropriate contacts detail you wish to add like social media platforms you may use </p>"
+        "body": "<p>The contacts topics area allows you to include contact details such as email address, room location or other appropriate contacts detail you wish to add like social media platforms you may use.</p>"
       },
       {
         "_mediaType": "image",
@@ -1256,8 +1541,8 @@
         "_itemGraphicLayout": "right",
         "itemIndex": 1,
         "_id": "5ae8b92c5393dc7ff60636ca",
-        "title": "Couse Information",
-        "body": "<p>The Course Information topic will contain information relating to the course such as the module descriptor, recommended reading materials etc</p>"
+        "title": "Couse Information Details",
+        "body": "<p>The course information topic will contain information relating to the course such as the module descriptor, recommended reading materials.</p>"
       },
       {
         "_mediaType": "image",
@@ -1268,10 +1553,10 @@
           }
         },
         "_itemGraphicLayout": "right",
-        "body": "<p>The Assessment Topic allows the student one location to submit their assignments, ideally, each module course should have an assessment topic area.</p>",
+        "body": "<p>The assessment topic allows the student&#39;s one location to submit their assignments, ideally, each module course should have an assessment topic area.</p>",
         "itemIndex": 2,
         "_id": "5ae8b9325393dc7ff60636cb",
-        "title": "Assessment Topic<br>"
+        "title": "Assessment Details"
       },
       {
         "_mediaType": "image",
@@ -1284,8 +1569,8 @@
         "_itemGraphicLayout": "right",
         "itemIndex": 3,
         "_id": "5ae8b9385393dc7ff60636cc",
-        "title": "Communication<br>",
-        "body": "<p>Communication and collaboration is an important part of the student independent learning experience, so it will be important that the Lecturer provide the facility for the student through a structured approach with the use of an open discussions topic area</p>"
+        "title": "Communication Details",
+        "body": "<p>Communication and collaboration is an important part of the student independent learning experience, so it will be important that the lecturer provide the facility for the student through a structured approach with the use of an open discussions topic area.</p>"
       }
     ],
     "_shouldShowCheckIcon": false,
@@ -1339,7 +1624,7 @@
     "_classes": "",
     "title": "Steps",
     "_type": "component",
-    "_courseOrder": "5-0-0-0"
+    "_courseOrder": "5-0-1-0"
   },
   {
     "_id": "5afa081829ecd05c9f7eca0a",
@@ -1387,6 +1672,7 @@
     "__v": 0,
     "_refId": "5afa081829ecd05c9f7eca0a",
     "body": "<p>How confident would you be if you have to set up your course structure, with 1 being not confident&nbsp;at all and 10 be very confident?</p>",
+    "displayTitle": "<strong>Think about this?</strong>",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -1430,7 +1716,76 @@
     "_classes": "",
     "title": "Structure Scale",
     "_type": "component",
-    "_courseOrder": "5-0-1-0"
+    "_courseOrder": "5-0-2-0"
+  },
+  {
+    "_id": "5b01b32796fa0560d693264b",
+    "_component": "hint",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5b01b31296fa0560d693264a",
+    "_items": [
+      {
+        "popupButtonText": "Close",
+        "buttonText": "Complete Task 4",
+        "itemIndex": 0,
+        "_id": "5b01b33496fa0560d693264d",
+        "title": "Task 4",
+        "body": "<p>Login to Moodle and navigate to your Sandbox area, turn editing on and navigate to your sections and rename the sections as per the details in this lab, you may also choose other names if you wish. Also, switch to student view so that you can also see what the student view looks like.</p>"
+      }
+    ],
+    "_numberOfColumns": 3,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5b01b32796fa0560d693264b",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Task 4",
+    "_type": "component",
+    "_courseOrder": "5-0-3-0"
   },
   {
     "_id": "5af9e16529ecd05c9f7eca08",
@@ -1439,7 +1794,6 @@
     "_courseId": "5aa81c34a7cdb50927663ec1",
     "_parentId": "5af45811a72c6b2ef8ae08d2",
     "_media": {
-      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/RUlbTCjnX6E\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
       "_isAutoPlay": false,
       "_isShowRelated": false,
       "_isLoop": false,
@@ -1448,7 +1802,8 @@
       "_isShowClosedCaptions": false,
       "_isAutoHideControls": true,
       "_isAllowFullscreen": true,
-      "_isLightTheme": false
+      "_isLightTheme": false,
+      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/fgobm9dxAt4\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
     },
     "_service": "youtube",
     "_setCompletionOn": "inview",
@@ -1459,6 +1814,8 @@
     "_isQuestionType": false,
     "__v": 0,
     "_refId": "5af9e16529ecd05c9f7eca08",
+    "displayTitle": "<strong>Adding Activites and Resources</strong>",
+    "body": "<p>Take a look at this video, it explains how to insert Moodle activities such as discussion forums and also how to add resources such as files from your computer.</p>",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -1514,23 +1871,23 @@
       {
         "_itemGraphicLayout": "bottom",
         "_itemGraphicWidth": "half",
-        "body": "<p>Adding files from your computer is relatively easy, in order to carry out this step you need to do the following</p><p><br></p><ol><li>Locate the file on your computer</li><li>Drag and Drop the file to the desired location in your module&nbsp;</li></ol>",
-        "title": "Adding Files",
-        "itemIndex": 0
+        "itemIndex": 0,
+        "title": "Adding Files (Resource)",
+        "body": "<p>Adding files from your computer is relatively easy, in order to carry out this step you need to do the following</p><p><br></p><ol><li>Locate the file on your computer</li><li>Drag and Drop the file to the desired location in your module&nbsp;</li></ol>"
       },
       {
         "_itemGraphicLayout": "bottom",
         "_itemGraphicWidth": "half",
-        "body": "<p>Adding images from your computer is relatively easy, in order to carry out this step you need to do the following</p><p><br></p><ol><li>Locate the image on your computer</li><li>Drag and Drop the image to the desired location in your module</li><li>You will get a message asking if you want to display as an image or upload as a file resource, choose image.</li></ol>",
-        "title": "Adding Images&nbsp;",
-        "itemIndex": 1
+        "itemIndex": 1,
+        "title": "Adding Images (Resource)",
+        "body": "<p>Adding images from your computer is relatively easy, in order to carry out this step you need to do the following</p><p><br></p><ol><li>Locate the image on your computer</li><li>Drag and Drop the image to the desired location in your module</li><li>You will get a message asking if you want to display as an image or upload as a file resource, choose image.</li></ol>"
       },
       {
         "_itemGraphicLayout": "bottom",
         "_itemGraphicWidth": "half",
-        "body": "<p>Adding a forum is relatively easy, in order to carry out this step you need to do the following</p><p><br></p><ol><li>Make sure you Turn editing on</li><li>Navigate to the desired topic area</li><li>Click on &quot;Add an Activity or Resource&quot;</li><li>Choose a Forum from the list of Activities</li><li>Give the forum a name and a description</li><li>Make sure you select the &quot;auto subscription&quot; in subscription and tracking option&nbsp;</li><li>Save you work</li></ol><p><br></p><p>Your forum is now ready and the students will be able to communicate with each other also the lecturer as regards course material.</p>",
-        "title": "Adding a Discussion&nbsp;forum",
-        "itemIndex": 2
+        "itemIndex": 2,
+        "title": "Adding a Discussion&nbsp;forum (Activity)",
+        "body": "<p>Adding a forum is relatively easy, in order to carry out this step you need to do the following</p><p><br></p><ol><li>Make sure you Turn editing on</li><li>Navigate to the desired topic area</li><li>Click on &quot;Add an Activity or Resource&quot;</li><li>Choose a Forum from the list of Activities</li><li>Give the forum a name and a description</li><li>Make sure you select the &quot;auto subscription&quot; in subscription and tracking option&nbsp;</li><li>Save you work</li></ol><p><br></p><p>Your forum is now ready and the students will be able to communicate with each other also the lecturer as regards course material.</p>"
       }
     ],
     "_shouldDisableProgessionAnimation": false,
@@ -1541,7 +1898,8 @@
     "_isQuestionType": false,
     "__v": 0,
     "_refId": "5afa27cc0ea88d427cf91623",
-    "displayTitle": "Flow Chart for Topics<br>",
+    "displayTitle": "Building content",
+    "body": "<p>Please follow the steps below to add Moodle content, we will look at adding Activites and Resources, then complete task 5.</p>",
     "_tags": {
       "_tagsList": [],
       "_isEnabled": false
@@ -1588,13 +1946,81 @@
     "_courseOrder": "6-0-1-0"
   },
   {
+    "_id": "5b01b3e396fa0560d6932656",
+    "_component": "hint",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5b01b3c496fa0560d6932653",
+    "_items": [
+      {
+        "popupButtonText": "Close",
+        "title": "Task 5",
+        "_id": "5b01b3f196fa0560d6932658",
+        "itemIndex": 0,
+        "body": "<p>Login to Moodle and navigate to your Sandbox area, turn editing on and navigate to your sections and insert some activities and resources as per the details in this lab, please feel free to add as many activities and resources as you wish</p>",
+        "buttonText": "Complete Task 5"
+      }
+    ],
+    "_numberOfColumns": 3,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5b01b3e396fa0560d6932656",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Task 5",
+    "_type": "component",
+    "_courseOrder": "6-0-2-0"
+  },
+  {
     "_id": "5af9e1ae29ecd05c9f7eca09",
     "_component": "videoStream",
     "_layout": "full",
     "_courseId": "5aa81c34a7cdb50927663ec1",
     "_parentId": "5af45b1ca72c6b2ef8ae08df",
     "_media": {
-      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/RUlbTCjnX6E\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
       "_isAutoPlay": false,
       "_isShowRelated": false,
       "_isLoop": false,
@@ -1603,7 +2029,8 @@
       "_isShowClosedCaptions": false,
       "_isAutoHideControls": true,
       "_isAllowFullscreen": true,
-      "_isLightTheme": false
+      "_isLightTheme": false,
+      "_source": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AFxKL5HGEZc\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
     },
     "_service": "youtube",
     "_setCompletionOn": "inview",
@@ -1738,6 +2165,75 @@
     "_courseOrder": "7-0-1-0"
   },
   {
+    "_id": "5b01b95096fa0560d693267c",
+    "_component": "hint",
+    "_layout": "full",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "_parentId": "5b01b92b96fa0560d6932679",
+    "_items": [
+      {
+        "popupButtonText": "Close",
+        "title": "Task 6",
+        "_id": "5b01b96296fa0560d693267d",
+        "itemIndex": 0,
+        "body": "<p>Login to Moodle and navigate to your Sandbox area, turn editing on and navigate to your contact section and add in an H5P accordion example as described in this Lab, please feel free to experiment with other H5P examples as described in this video or examples of your own choice.</p>",
+        "buttonText": "Complete Task 6"
+      }
+    ],
+    "_numberOfColumns": 3,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "5b01b95096fa0560d693267c",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_hint": {
+      "_isEnabled": false
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Task 6",
+    "_type": "component",
+    "_courseOrder": "7-1-0-0"
+  },
+  {
     "_id": "5afb31510ea88d427cf91693",
     "_component": "links",
     "_layout": "full",
@@ -1822,6 +2318,6 @@
     "_classes": "",
     "title": "Link Title",
     "_type": "component",
-    "_courseOrder": "7-1-0-0"
+    "_courseOrder": "7-1-1-0"
   }
 ]

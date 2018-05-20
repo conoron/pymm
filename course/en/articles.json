@@ -225,7 +225,8 @@
     "_courseOrder": "2-0",
     "_childrenIds": [
       "5aa91917a7cdb50927663f2f",
-      "5af6cafd4b33d4241b1a5a65"
+      "5af6cafd4b33d4241b1a5a65",
+      "5b01b18496fa0560d693263a"
     ]
   },
   {
@@ -312,8 +313,8 @@
     "_sortOrder": 0,
     "__v": 0,
     "_refId": "5ae4456e25f0aa145189653e",
-    "displayTitle": "Lab 2 - Module Format<br>",
-    "body": "<p>In this lab we will look at the diffrent module formats that can be used in you Moodle module</p>",
+    "displayTitle": "",
+    "body": "",
     "_progress": {
       "_isEnabled": true
     },
@@ -455,7 +456,8 @@
     "_courseOrder": "3-1",
     "_childrenIds": [
       "5af6cf4d4b33d4241b1a5a6d",
-      "5af6d03b4b33d4241b1a5a6f"
+      "5af6d03b4b33d4241b1a5a6f",
+      "5b01a51496fa0560d69325a5"
     ]
   },
   {
@@ -465,8 +467,8 @@
     "_sortOrder": 0,
     "__v": 0,
     "_refId": "5ae4457825f0aa1451896541",
-    "displayTitle": "Moodle Activities and Resources",
-    "body": "<p>In this lab we look at the differences between activities and resources and how you can use some of these to help motivate and engage your students</p>",
+    "displayTitle": "Moodle Activities and Resources Video",
+    "body": "<p>Please watch this video, it will explain the differences between activities which are more interactive between the Lecturer and the student versus resources which are more asynchronous in nature and do not require attention from the lecturer after they put the resource in place.</p>",
     "_progress": {
       "_isEnabled": true
     },
@@ -533,7 +535,8 @@
     "_courseOrder": "4-0",
     "_childrenIds": [
       "5af8451e09bb9244299b2bed",
-      "5afb20cb0ea88d427cf91672"
+      "5afb20cb0ea88d427cf91672",
+      "5b01b21296fa0560d6932642"
     ]
   },
   {
@@ -609,8 +612,10 @@
     "_type": "article",
     "_courseOrder": "5-0",
     "_childrenIds": [
+      "5afff60fd104200e3f46bac8",
       "5ae446ce25f0aa1451896545",
-      "5af45247a72c6b2ef8ae08b8"
+      "5af45247a72c6b2ef8ae08b8",
+      "5b01b31296fa0560d693264a"
     ]
   },
   {
@@ -686,7 +691,8 @@
     "_courseOrder": "6-0",
     "_childrenIds": [
       "5af45811a72c6b2ef8ae08d2",
-      "5afa245c0ea88d427cf9161f"
+      "5afa245c0ea88d427cf9161f",
+      "5b01b3c496fa0560d6932653"
     ]
   },
   {
@@ -837,6 +843,7 @@
     "_type": "article",
     "_courseOrder": "7-1",
     "_childrenIds": [
+      "5b01b92b96fa0560d6932679",
       "5afb313f0ea88d427cf91692"
     ]
   }

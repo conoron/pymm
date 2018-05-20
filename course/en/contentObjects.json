@@ -8,7 +8,7 @@
     "_refId": "5ae4496d25f0aa1451896546",
     "displayTitle": "Course Infomation",
     "duration": "",
-    "description": "<p>This where course information such the contact details, the module outlile and the open discussion forum with appear.</p>",
+    "description": "<p>This is where course information such the contact details, the module outline will appear.</p>",
     "_swipeMenu": {
       "prevButtonAriaLabel": "Previous",
       "nextButtonAriaLabel": "Next",
@@ -138,7 +138,8 @@
         "_contentWidth": 70,
         "textAlignment": "left",
         "layout": "center"
-      }
+      },
+      "src": null
     },
     "_contentLocking": {
       "_requiredAmount": 0,
@@ -177,6 +178,9 @@
             "_type": "image",
             "_size": "small"
           }
+        },
+        "_extraLarge": {
+          "src": null
         }
       },
       "_contentWidth": 70,
@@ -201,7 +205,7 @@
       "src": {
         "_type": "image",
         "_extension": "png",
-        "_id": "5afd4d998ecaf104036ef682"
+        "_id": "5aff6ce0d104200e3f46bac7"
       }
     },
     "title": "Course Information",
@@ -408,7 +412,7 @@
       "src": {
         "_type": "image",
         "_extension": "png",
-        "_id": "5af45924a72c6b2ef8ae08d8"
+        "_id": "5aff6ce0d104200e3f46bac7"
       }
     },
     "title": "Course Assessment",
@@ -430,7 +434,7 @@
     "__v": 0,
     "_refId": "5aa91917a7cdb50927663f2d",
     "displayTitle": "Lab 1 Introduction",
-    "body": "<p>When you first setup in your Moodle module by your colleagues in the TEL team, there are some basic features that you can setup in you module to enhance the learning experience for you students.</p>",
+    "body": "<p>When your first set up in your Moodle module by your colleagues in the TEL team, there are some basic features that you can set up in your module to enhance the learning experience for your students.</p>",
     "description": "<p>In this lab we take a look at the introduction video on how to log into Moodle and also where your module is located.</p>",
     "duration": "1",
     "_swipeMenu": {
@@ -628,8 +632,8 @@
       "_isOverridingTheme": false,
       "src": {
         "_type": "image",
-        "_extension": "jpeg",
-        "_id": "5aa91a5ca7cdb50927663f3f"
+        "_extension": "png",
+        "_id": "5aff6ce0d104200e3f46bac7"
       }
     },
     "title": "Lab 1 - Introduction",
@@ -638,6 +642,7 @@
     "_descendantComponentIds": [
       "5ade56bffddd241d59fd3b36",
       "5af6cba14b33d4241b1a5a66",
+      "5b01b19a96fa0560d693263b",
       "5af9e0b029ecd05c9f7eca07"
     ],
     "_childrenIds": [
@@ -654,7 +659,7 @@
     "_refId": "5ae4456e25f0aa145189653d",
     "displayTitle": "Lab 2 Module Format",
     "duration": "2",
-    "body": "<p>In this Lab we will look at &nbsp;the different Module formats that can be used in you Moodle module, there are some small differences between formats and these differences will be covered in this lab </p>",
+    "body": "<p>In this Lab we will look at &nbsp;the different Module formats that can be used in you Moodle module, there are some small differences between formats and these differences will be covered in this lab</p>",
     "description": "<p>In this Lab we will look at &nbsp;the different Module formats that can be used in you Moodle module, there are some small differences between formats and these differences will be covered in this lab </p>",
     "_swipeMenu": {
       "prevButtonAriaLabel": "Previous",
@@ -815,6 +820,16 @@
         },
         "_position": "bottom-right"
       },
+      "_graphic": {
+        "_extraLarge": {
+          "src": {
+            "_size": "extraLarge",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59521ebdd6ac909a7354a0b5"
+          }
+        }
+      },
       "_contentWidth": 70,
       "layout": "center",
       "_isEnabled": true
@@ -837,7 +852,7 @@
       "src": {
         "_type": "image",
         "_extension": "png",
-        "_id": "5971e710f2f33cd336ccfa5d"
+        "_id": "5aff6ce0d104200e3f46bac7"
       }
     },
     "title": "Lab 2 - Module Format",
@@ -846,7 +861,8 @@
     "_descendantComponentIds": [
       "5af6cfe64b33d4241b1a5a6e",
       "5ae9f4952a8d4f109d667c16",
-      "5af6d0754b33d4241b1a5a70"
+      "5af6d0754b33d4241b1a5a70",
+      "5b01ae4f96fa0560d693262b"
     ],
     "_childrenIds": [
       "5ae4456e25f0aa145189653e",
@@ -1023,6 +1039,16 @@
         },
         "_position": "bottom-right"
       },
+      "_graphic": {
+        "_extraLarge": {
+          "src": {
+            "_size": "extraLarge",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59521ebdd6ac909a7354a0b5"
+          }
+        }
+      },
       "_contentWidth": 70,
       "layout": "center",
       "_isEnabled": false
@@ -1041,14 +1067,20 @@
       "_position": "bottom-right",
       "_isFloatingGraphic": false,
       "_hideOnMobile": false,
-      "_isOverridingTheme": false
+      "_isOverridingTheme": false,
+      "src": {
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5aff6ce0d104200e3f46bac7"
+      }
     },
     "title": "Lab 3  - Moodle Activities and Resources",
     "_type": "page",
     "_courseOrder": "4",
     "_descendantComponentIds": [
       "5af8452609bb9244299b2bee",
-      "5afb20f50ea88d427cf91673"
+      "5afb20f50ea88d427cf91673",
+      "5b01b22796fa0560d6932643"
     ],
     "_childrenIds": [
       "5ae4457825f0aa1451896541"
@@ -1063,7 +1095,7 @@
     "_refId": "5ae446ce25f0aa1451896543",
     "displayTitle": "Lab 4 Set up Minimum Structure",
     "duration": "3",
-    "body": "",
+    "body": "<p>Setting up the correct structure in your module is important we look in this lab on the recommended&nbsp;way of achieving this.</p>",
     "description": "<p>In this Lab we will look at building some minimum course structure around sections, contact details, assessment details and an open discussion area, we look at how the student view&#39;s these topics.</p>",
     "_swipeMenu": {
       "prevButtonAriaLabel": "Previous",
@@ -1224,6 +1256,16 @@
         },
         "_position": "bottom-right"
       },
+      "_graphic": {
+        "_extraLarge": {
+          "src": {
+            "_size": "extraLarge",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59521ebdd6ac909a7354a0b5"
+          }
+        }
+      },
       "_contentWidth": 70,
       "layout": "center",
       "_isEnabled": false
@@ -1242,14 +1284,21 @@
       "_position": "bottom-right",
       "_isFloatingGraphic": false,
       "_hideOnMobile": false,
-      "_isOverridingTheme": false
+      "_isOverridingTheme": false,
+      "src": {
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5aff6ce0d104200e3f46bac7"
+      }
     },
     "title": "Lab 4 - Set up Minimum Structure",
     "_type": "page",
     "_courseOrder": "5",
     "_descendantComponentIds": [
+      "5afff616d104200e3f46bac9",
       "5ae8b8f65393dc7ff60636c8",
-      "5afa081829ecd05c9f7eca0a"
+      "5afa081829ecd05c9f7eca0a",
+      "5b01b32796fa0560d693264b"
     ],
     "_childrenIds": [
       "5ae446ce25f0aa1451896544"
@@ -1263,7 +1312,7 @@
     "__v": 0,
     "_refId": "5af45811a72c6b2ef8ae08d0",
     "displayTitle": "Lab 5 Build Content",
-    "body": "",
+    "body": "<p>Now we start to look at how to insert content, we will look at inserting&nbsp;Moodle activities and Resources.</p>",
     "description": "<p>In this lab we will look at adding some activity to our course, so we will add some Moodle activities such as a Discussion form and we will add in our Module Descriptor and Assessment Files</p>",
     "duration": "7",
     "_swipeMenu": {
@@ -1425,6 +1474,16 @@
         },
         "_position": "bottom-right"
       },
+      "_graphic": {
+        "_extraLarge": {
+          "src": {
+            "_size": "extraLarge",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59521ebdd6ac909a7354a0b5"
+          }
+        }
+      },
       "_contentWidth": 70,
       "layout": "center",
       "_isEnabled": false
@@ -1443,14 +1502,20 @@
       "_position": "bottom-right",
       "_isFloatingGraphic": false,
       "_hideOnMobile": false,
-      "_isOverridingTheme": false
+      "_isOverridingTheme": false,
+      "src": {
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5aff6ce0d104200e3f46bac7"
+      }
     },
     "title": "Lab 5 - Build Content",
     "_type": "page",
     "_courseOrder": "6",
     "_descendantComponentIds": [
       "5af9e16529ecd05c9f7eca08",
-      "5afa27cc0ea88d427cf91623"
+      "5afa27cc0ea88d427cf91623",
+      "5b01b3e396fa0560d6932656"
     ],
     "_childrenIds": [
       "5af45811a72c6b2ef8ae08d1"
@@ -1625,6 +1690,16 @@
         },
         "_position": "bottom-right"
       },
+      "_graphic": {
+        "_extraLarge": {
+          "src": {
+            "_size": "extraLarge",
+            "_type": "image",
+            "_extension": "jpeg",
+            "_id": "59521ebdd6ac909a7354a0b5"
+          }
+        }
+      },
       "_contentWidth": 70,
       "layout": "center",
       "_isEnabled": false
@@ -1643,7 +1718,12 @@
       "_position": "bottom-right",
       "_isFloatingGraphic": false,
       "_hideOnMobile": false,
-      "_isOverridingTheme": false
+      "_isOverridingTheme": false,
+      "src": {
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5aff6ce0d104200e3f46bac7"
+      }
     },
     "title": "Lab 6 - Build H5P Content",
     "_type": "page",
@@ -1651,6 +1731,7 @@
     "_descendantComponentIds": [
       "5af9e1ae29ecd05c9f7eca09",
       "5afd901d8ecaf104036ef7a6",
+      "5b01b95096fa0560d693267c",
       "5afb31510ea88d427cf91693"
     ],
     "_childrenIds": [

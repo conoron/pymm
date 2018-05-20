@@ -1,7 +1,7 @@
 {
   "_id": "5aa81c34a7cdb50927663ec1",
   "_createdAt": 1520966708857,
-  "_modifiedAt": 1526639663752,
+  "_modifiedAt": 1526841536163,
   "_theme": "5ade54cafddd241d59fd3b33",
   "_editLog": [
     {
@@ -621,7 +621,7 @@
   "_boxMenu": {
     "_menuContentItems": [
       {
-        "body": "<p><strong><span style=\"font-size: 20px;\">Welcome Video</span></strong></p><p><span style=\"font-size: 18px;\"><br></span></p><p><span style=\"font-size: 16px;\">Welcome to this course which will help you prime you Moodle module for both you and your students, <span style=\"font-size: 16px;\">In this course, you will learning how to include some minimum elements into your module such as open discussion forums, contact details, course information such as a module descriptor, information around assessment schedules.</span></span></p><p><br></p><p><span style=\"font-size: 16px;\">The goal of this course will be to enhance the student&#39;s experience, which will help then focus more on the content you want them to look at.</span></p><p><span style=\"font-size: 16px;\"><br></span></p><p><br></p>",
+        "body": "<p><strong><span style=\"font-size: 20px;\">Welcome Video</span></strong></p><p><span style=\"font-size: 18px;\"><br></span></p><p><span style=\"font-size: 16px;\">Welcome to this course which will help you prime your Moodle module for both you and your student&#39;s.&nbsp;<span style=\"font-size: 16px;\">In this course, you will learn how to include some minimum elements into your module such as open discussion forums, contact details, course information such as a module descriptor, information around assessment schedules.</span></span></p><p><br></p><p><span style=\"font-size: 16px;\">The goal of this course will be to enhance the student&#39;s experience, which will help then focus more on the content you want them to look at.</span></p><p><span style=\"font-size: 16px;\"><br></span></p><p><br></p>",
         "itemIndex": 0,
         "_id": "5afd4fae8ecaf104036ef688",
         "_graphicLayout": "left",
@@ -632,7 +632,7 @@
           "src": {
             "_type": "video",
             "_extension": "mp4",
-            "_id": "5afd51278ecaf104036ef68a"
+            "_id": "5aff65c5d104200e3f46bac1"
           }
         },
         "_mediaType": "video"

@@ -355,16 +355,16 @@
   },
   "_assets": [
     {
-      "_id": "5afd51278ecaf104036ef68a"
+      "_id": "5aff65c5d104200e3f46bac1"
     },
     {
       "_id": "5ad61d2463f6e60d074a8276"
     },
     {
-      "_id": "5aa91a5ca7cdb50927663f3f",
+      "_id": "5aff6ce0d104200e3f46bac7",
       "_sizes": {
-        "extraLarge": true,
-        "large": true,
+        "extraLarge": false,
+        "large": false,
         "small": true
       }
     },
@@ -382,22 +382,6 @@
         "extraLarge": false,
         "large": true,
         "small": true
-      }
-    },
-    {
-      "_id": "5971e710f2f33cd336ccfa5d",
-      "_sizes": {
-        "extraLarge": false,
-        "large": false,
-        "small": true
-      }
-    },
-    {
-      "_id": "5afd4d998ecaf104036ef682",
-      "_sizes": {
-        "extraLarge": false,
-        "large": false,
-        "small": false
       }
     },
     {
@@ -451,6 +435,7 @@
     "links",
     "graphic",
     "checklist",
+    "hint",
     "text",
     "mcq",
     "dragAndDrop",

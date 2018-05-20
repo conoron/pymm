@@ -121,7 +121,7 @@
     "_singleWidthIsCentered": true,
     "_singleWidthComponentLayout": "default",
     "_classes": "",
-    "title": "Say Hello",
+    "title": "Lab 1",
     "_type": "block",
     "_courseOrder": "2-0-0",
     "_childrenIds": [
@@ -136,7 +136,7 @@
     "__v": 0,
     "_refId": "5af6cafd4b33d4241b1a5a65",
     "displayTitle": "<strong>Sandbox</strong><br>",
-    "body": "<p>Your Sandbox area in Moodle is just a test area where you can test different activities and ideas, before you start this course you will be set up with with full edit access to this Sandbox area.</p><p><br></p><p><br></p><p><strong>Module Request</strong></p><p>In order to get access to a module your Head of Department has allocated to you to deliver, you first need email the CTEL team at <a href=\"mailto:moodle@wit.ie\">moodle@wit.ie</a> requesting the access to the Module, each module with have a unique five digit number, please include this number with you request.</p><p><br></p>",
+    "body": "<p>Your Sandbox area in Moodle is just a test area where you can test different activities and ideas, before you start this course you will be set up with with full edit access to this Sandbox area.</p><p><br></p><p><br></p><p><strong>Module Request</strong></p><p>In order to get access to a module your Head of Department has allocated to you to deliver, you first need email the CTEL team at <a href=\"mailto:moodle@wit.ie\">moodle@wit.ie</a> requesting the access to the Module, each module will have a unique five digit number, please include this number with your request.</p><p><br></p>",
     "_courseAttainment": {
       "_isEnabled": false
     },
@@ -149,6 +149,27 @@
     "_courseOrder": "2-0-1",
     "_childrenIds": [
       "5af6cba14b33d4241b1a5a66"
+    ]
+  },
+  {
+    "_id": "5b01b18496fa0560d693263a",
+    "_sortOrder": 2,
+    "_parentId": "5aa91917a7cdb50927663f2e",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5b01b18496fa0560d693263a",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Task 1",
+    "_type": "block",
+    "_courseOrder": "2-0-2",
+    "_childrenIds": [
+      "5b01b19a96fa0560d693263b"
     ]
   },
   {
@@ -223,7 +244,7 @@
     "_courseId": "5aa81c34a7cdb50927663ec1",
     "__v": 0,
     "_refId": "5af6d03b4b33d4241b1a5a6f",
-    "displayTitle": "Multiple Choice Quiz<br>",
+    "displayTitle": "Multiple Choice Assessment",
     "_courseAttainment": {
       "_isEnabled": false
     },
@@ -239,12 +260,34 @@
     ]
   },
   {
+    "_id": "5b01a51496fa0560d69325a5",
+    "_sortOrder": 2,
+    "_parentId": "5af6cf4d4b33d4241b1a5a6c",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5b01a51496fa0560d69325a5",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Moodle",
+    "_type": "block",
+    "_courseOrder": "3-1-2",
+    "_childrenIds": [
+      "5b01ae4f96fa0560d693262b"
+    ]
+  },
+  {
     "_id": "5af8451e09bb9244299b2bed",
     "_sortOrder": 0,
     "_parentId": "5ae4457825f0aa1451896541",
     "_courseId": "5aa81c34a7cdb50927663ec1",
     "__v": 0,
     "_refId": "5af8451e09bb9244299b2bed",
+    "body": "",
     "_courseAttainment": {
       "_isEnabled": false
     },
@@ -266,6 +309,8 @@
     "_courseId": "5aa81c34a7cdb50927663ec1",
     "__v": 0,
     "_refId": "5afb20cb0ea88d427cf91672",
+    "body": "<p>Take a minute to try this drag and drop activity, this will allow you to check your progress for this course, you can read more about Moodle <a href=\"https://docs.moodle.org/31/en/Activities\" rel=\"noopener noreferrer\" target=\"_blank\">activities</a> and <a href=\"https://docs.moodle.org/31/en/Resources\" rel=\"noopener noreferrer\" target=\"_blank\">resources</a> to gain a more detailed explanation.</p>",
+    "displayTitle": "<strong>Drag and Drop assessment</strong><br>",
     "_courseAttainment": {
       "_isEnabled": false
     },
@@ -281,10 +326,54 @@
     ]
   },
   {
+    "_id": "5b01b21296fa0560d6932642",
+    "_sortOrder": 2,
+    "_parentId": "5ae4457825f0aa1451896541",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5b01b21296fa0560d6932642",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Task 3",
+    "_type": "block",
+    "_courseOrder": "4-0-2",
+    "_childrenIds": [
+      "5b01b22796fa0560d6932643"
+    ]
+  },
+  {
+    "_id": "5afff60fd104200e3f46bac8",
+    "_sortOrder": 0,
+    "_parentId": "5ae446ce25f0aa1451896544",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5afff60fd104200e3f46bac8",
+    "displayTitle": "",
+    "body": "<p>In this video, we look at how to set the correct structure in place, when you first get allocated to your module in Moodle it will be blank and all sections will have a default section name, it&#39;s good practice to rename these sections to relevant titles and all other empty sections should be hidden from student view, this video will explain these steps.&nbsp;</p>",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Video ",
+    "_type": "block",
+    "_courseOrder": "5-0-0",
+    "_childrenIds": [
+      "5afff616d104200e3f46bac9"
+    ]
+  },
+  {
     "_id": "5ae446ce25f0aa1451896545",
     "_courseId": "5aa81c34a7cdb50927663ec1",
     "_parentId": "5ae446ce25f0aa1451896544",
-    "_sortOrder": 0,
+    "_sortOrder": 1,
     "__v": 0,
     "_refId": "5ae446ce25f0aa1451896545",
     "displayTitle": "",
@@ -297,14 +386,14 @@
     "_classes": "",
     "title": "Add Course Topics",
     "_type": "block",
-    "_courseOrder": "5-0-0",
+    "_courseOrder": "5-0-1",
     "_childrenIds": [
       "5ae8b8f65393dc7ff60636c8"
     ]
   },
   {
     "_id": "5af45247a72c6b2ef8ae08b8",
-    "_sortOrder": 1,
+    "_sortOrder": 2,
     "_parentId": "5ae446ce25f0aa1451896544",
     "_courseId": "5aa81c34a7cdb50927663ec1",
     "__v": 0,
@@ -318,9 +407,30 @@
     "_classes": "",
     "title": "Scale",
     "_type": "block",
-    "_courseOrder": "5-0-1",
+    "_courseOrder": "5-0-2",
     "_childrenIds": [
       "5afa081829ecd05c9f7eca0a"
+    ]
+  },
+  {
+    "_id": "5b01b31296fa0560d693264a",
+    "_sortOrder": 3,
+    "_parentId": "5ae446ce25f0aa1451896544",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5b01b31296fa0560d693264a",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Task 4",
+    "_type": "block",
+    "_courseOrder": "5-0-3",
+    "_childrenIds": [
+      "5b01b32796fa0560d693264b"
     ]
   },
   {
@@ -337,7 +447,7 @@
     "_singleWidthIsCentered": true,
     "_singleWidthComponentLayout": "default",
     "_classes": "",
-    "title": "Step 1",
+    "title": "Video",
     "_type": "block",
     "_courseOrder": "6-0-0",
     "_childrenIds": [
@@ -358,11 +468,32 @@
     "_singleWidthIsCentered": true,
     "_singleWidthComponentLayout": "default",
     "_classes": "",
-    "title": "Next",
+    "title": "Steps",
     "_type": "block",
     "_courseOrder": "6-0-1",
     "_childrenIds": [
       "5afa27cc0ea88d427cf91623"
+    ]
+  },
+  {
+    "_id": "5b01b3c496fa0560d6932653",
+    "_sortOrder": 2,
+    "_parentId": "5af45811a72c6b2ef8ae08d1",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5b01b3c496fa0560d6932653",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Task 5",
+    "_type": "block",
+    "_courseOrder": "6-0-2",
+    "_childrenIds": [
+      "5b01b3e396fa0560d6932656"
     ]
   },
   {
@@ -409,10 +540,31 @@
     ]
   },
   {
+    "_id": "5b01b92b96fa0560d6932679",
+    "_sortOrder": 0,
+    "_parentId": "5afb313f0ea88d427cf91691",
+    "_courseId": "5aa81c34a7cdb50927663ec1",
+    "__v": 0,
+    "_refId": "5b01b92b96fa0560d6932679",
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_componentsVerticalAlignment": "top",
+    "_singleWidthIsCentered": true,
+    "_singleWidthComponentLayout": "default",
+    "_classes": "",
+    "title": "Task 6",
+    "_type": "block",
+    "_courseOrder": "7-1-0",
+    "_childrenIds": [
+      "5b01b95096fa0560d693267c"
+    ]
+  },
+  {
     "_id": "5afb313f0ea88d427cf91692",
     "_courseId": "5aa81c34a7cdb50927663ec1",
     "_parentId": "5afb313f0ea88d427cf91691",
-    "_sortOrder": 0,
+    "_sortOrder": 1,
     "__v": 0,
     "_refId": "5afb313f0ea88d427cf91692",
     "_courseAttainment": {
@@ -424,7 +576,7 @@
     "_classes": "",
     "title": "Home link",
     "_type": "block",
-    "_courseOrder": "7-1-0",
+    "_courseOrder": "7-1-1",
     "_childrenIds": [
       "5afb31510ea88d427cf91693"
     ]
